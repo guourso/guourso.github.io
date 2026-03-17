@@ -46,28 +46,33 @@ function popularRegioes() {
   });
 }
 
-function renderizar(listaBares) {
-  lista.innerHTML = '';
+function renderizar(lista) {
+  const container = document.getElementById('lista-bares');
+  const emptyState = document.getElementById('empty-state');
 
-  listaBares.forEach(bar => {
-    const div = document.createElement('div');
-    div.classList.add('bar-card');
+  container.innerHTML = '';
 
-    div.innerHTML = `
+  if (lista.length === 0) {
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  emptyState.style.display = 'none';
+
+  lista.forEach(bar => {
+    const card = document.createElement('div');
+    card.className = 'bar-card';
+
+    card.innerHTML = `
       <img src="${bar.imagem}" alt="${bar.bar}">
-      <div class="bar-card-content">
-        <h3>${bar.bar}</h3>
-        <p>${bar.prato}</p>
-        <small>${bar.bairro} - ${bar.regiao}</small>
-        <button>Ver detalhes</button>
-      </div>
+      <h3>${bar.bar}</h3>
+      <p>${bar.prato}</p>
+      <button onclick='abrirModal(${JSON.stringify(bar)})'>
+        Ver detalhes
+      </button>
     `;
 
-    div.querySelector('button').addEventListener('click', () => {
-      abrirModal(bar);
-    });
-
-    lista.appendChild(div);
+    container.appendChild(card);
   });
 }
 
