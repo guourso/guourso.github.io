@@ -1,52 +1,55 @@
 let bares = [];
+let ingredientes = [];
+let tagsSelecionadas = [];
 
-const lista = document.getElementById('lista-bares');
-const searchInput = document.getElementById('search');
-const filtroDia = document.getElementById('filtro-dia');
-const filtroBairro = document.getElementById('filtro-bairro');
-const filtroRegiao = document.getElementById('filtro-regiao');
+// =========================
+// CARREGAMENTO INICIAL
+// =========================
+async function carregarDados() {
+  const resBares = await fetch('./bares.json');
+  bares = await resBares.json();
 
-const modal = document.createElement('div');
-modal.classList.add('modal');
-modal.innerHTML = `<div class="modal-content" id="modal-content"></div>`;
-document.body.appendChild(modal);
+  const resIngredientes = await fetch('./ingredientes.json');
+  const dataIngredientes = await resIngredientes.json();
+  ingredientes = dataIngredientes.todos_ingredientes;
 
-modal.addEventListener('click', (e) => {
-  if (e.target === modal) modal.style.display = 'none';
-});
+  popularFiltros();
+  carregarFiltrosSalvos(); // 🔥 carrega filtros
 
-fetch('./data.json')
-  .then(res => res.json())
-  .then(data => {
-    bares = data;
-    popularBairros();
-    popularRegioes();
-    renderizar(bares);
+  aplicarFiltros();
+}
+
+carregarDados();
+
+// =========================
+// FILTROS (BAIRRO / REGIÃO)
+// =========================
+function popularFiltros() {
+  const bairros = [...new Set(bares.map(b => b.bairro))];
+  const regioes = [...new Set(bares.map(b => b.regiao))];
+
+  const selectBairro = document.getElementById('filtro-bairro');
+  const selectRegiao = document.getElementById('filtro-regiao');
+
+  bairros.forEach(b => {
+    const opt = document.createElement('option');
+    opt.value = b;
+    opt.innerText = b;
+    selectBairro.appendChild(opt);
   });
 
-function popularBairros() {
-  const bairros = [...new Set(bares.map(b => b.bairro).filter(Boolean))];
-
-  bairros.forEach(bairro => {
-    const option = document.createElement('option');
-    option.value = bairro;
-    option.textContent = bairro;
-    filtroBairro.appendChild(option);
+  regioes.forEach(r => {
+    const opt = document.createElement('option');
+    opt.value = r;
+    opt.innerText = r;
+    selectRegiao.appendChild(opt);
   });
 }
 
-function popularRegioes() {
-  const regioes = [...new Set(bares.map(b => b.regiao).filter(Boolean))];
-
-  regioes.forEach(regiao => {
-    const option = document.createElement('option');
-    option.value = regiao;
-    option.textContent = regiao;
-    filtroRegiao.appendChild(option);
-  });
-}
-
-function renderizar(lista) {
+// =========================
+// RENDERIZAÇÃO
+// =========================
+function renderizarBares(lista) {
   const container = document.getElementById('lista-bares');
   const emptyState = document.getElementById('empty-state');
 
@@ -63,41 +66,212 @@ function renderizar(lista) {
     const card = document.createElement('div');
     card.className = 'bar-card';
 
-card.innerHTML = `
-  <img src="${bar.imagem}" alt="${bar.bar}">
-
-  <div class="bar-card-content">
-    <h3>${bar.bar}</h3>
-    <p>${bar.prato}</p>
-
-    <button onclick='abrirModal(${JSON.stringify(bar)})'>
-      Ver detalhes
-    </button>
-  </div>
-`;
+    card.innerHTML = `
+      <img src="${bar.imagem}" alt="${bar.bar}">
+      <div class="bar-card-content">
+        <h3>${bar.bar}</h3>
+        <p>${bar.prato}</p>
+        <button onclick='abrirModal(${JSON.stringify(bar)})'>
+          Ver detalhes
+        </button>
+      </div>
+    `;
 
     container.appendChild(card);
   });
 }
 
-function abrirModal(bar) {
-  const content = document.getElementById('modal-content');
+// =========================
+// FILTROS
+// =========================
+function aplicarFiltros() {
+  const busca = document.getElementById('search').value.toLowerCase();
+  const dia = document.getElementById('filtro-dia').value;
+  const bairro = document.getElementById('filtro-bairro').value;
+  const regiao = document.getElementById('filtro-regiao').value;
 
+  const filtrados = bares.filter(bar => {
+    const texto = (bar.prato + ' ' + bar.descricao).toLowerCase();
+
+    const matchBusca = bar.bar.toLowerCase().includes(busca);
+
+    const matchDia =
+      !dia ||
+      (bar.horarios || []).some(h => h.dia === dia);
+
+    const matchBairro = !bairro || bar.bairro === bairro;
+    const matchRegiao = !regiao || bar.regiao === regiao;
+
+    const matchTags =
+      tagsSelecionadas.length === 0 ||
+      tagsSelecionadas.some(tag =>
+        texto.includes(tag.toLowerCase())
+      );
+
+    return matchBusca && matchDia && matchBairro && matchRegiao && matchTags;
+  });
+
+  renderizarBares(filtrados);
+
+  salvarFiltros(); // 🔥 salva sempre
+}
+
+// =========================
+// EVENTOS DOS FILTROS
+// =========================
+document.getElementById('search').addEventListener('input', aplicarFiltros);
+document.getElementById('filtro-dia').addEventListener('change', aplicarFiltros);
+document.getElementById('filtro-bairro').addEventListener('change', aplicarFiltros);
+document.getElementById('filtro-regiao').addEventListener('change', aplicarFiltros);
+
+// =========================
+// LOCAL STORAGE
+// =========================
+function salvarFiltros() {
+  const filtros = {
+    busca: document.getElementById('search').value,
+    dia: document.getElementById('filtro-dia').value,
+    bairro: document.getElementById('filtro-bairro').value,
+    regiao: document.getElementById('filtro-regiao').value,
+    tags: tagsSelecionadas
+  };
+
+  localStorage.setItem('filtrosBares', JSON.stringify(filtros));
+}
+
+function carregarFiltrosSalvos() {
+  const data = localStorage.getItem('filtrosBares');
+  if (!data) return;
+
+  const filtros = JSON.parse(data);
+
+  document.getElementById('search').value = filtros.busca || '';
+  document.getElementById('filtro-dia').value = filtros.dia || '';
+  document.getElementById('filtro-bairro').value = filtros.bairro || '';
+  document.getElementById('filtro-regiao').value = filtros.regiao || '';
+
+  if (filtros.tags && filtros.tags.length > 0) {
+    filtros.tags.forEach(tag => adicionarTag(tag));
+  }
+}
+
+// =========================
+// BOTÃO LIMPAR FILTROS
+// =========================
+document.getElementById('limpar-filtros').addEventListener('click', () => {
+  document.getElementById('search').value = '';
+  document.getElementById('filtro-dia').value = '';
+  document.getElementById('filtro-bairro').value = '';
+  document.getElementById('filtro-regiao').value = '';
+
+  tagsSelecionadas = [];
+  document.getElementById('filtro-tags').innerHTML = '';
+
+  localStorage.removeItem('filtrosBares');
+
+  aplicarFiltros();
+});
+
+// =========================
+// AUTOCOMPLETE DE TAGS
+// =========================
+const inputTag = document.getElementById('input-tag');
+const sugestoesBox = document.getElementById('sugestoes-tags');
+
+inputTag.addEventListener('input', () => {
+  const valor = inputTag.value.toLowerCase();
+
+  sugestoesBox.innerHTML = '';
+
+  if (!valor) return;
+
+  const filtradas = ingredientes
+    .filter(i => i.toLowerCase().includes(valor))
+    .slice(0, 10);
+
+  if (filtradas.length === 0) {
+    sugestoesBox.innerHTML = `<div class="sugestao-item">Nenhum resultado</div>`;
+    return;
+  }
+
+  filtradas.forEach(item => {
+    const div = document.createElement('div');
+    div.className = 'sugestao-item';
+
+    div.innerHTML = item.replace(
+      new RegExp(valor, 'gi'),
+      match => `<strong>${match}</strong>`
+    );
+
+    div.addEventListener('click', () => {
+      adicionarTag(item);
+      inputTag.value = '';
+      sugestoesBox.innerHTML = '';
+    });
+
+    sugestoesBox.appendChild(div);
+  });
+});
+
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.busca-tags')) {
+    sugestoesBox.innerHTML = '';
+  }
+});
+
+// =========================
+// TAGS
+// =========================
+function adicionarTag(tag) {
+  tag = tag.toLowerCase();
+
+  if (tagsSelecionadas.includes(tag)) return;
+
+  tagsSelecionadas.push(tag);
+
+  const container = document.getElementById('filtro-tags');
+
+  const tagEl = document.createElement('div');
+  tagEl.className = 'tag';
+
+  tagEl.innerHTML = `
+    <span>${tag}</span>
+    <button class="tag-remove">✕</button>
+  `;
+
+  tagEl.querySelector('.tag-remove').addEventListener('click', (e) => {
+    e.stopPropagation();
+
+    tagsSelecionadas = tagsSelecionadas.filter(t => t !== tag);
+    tagEl.remove();
+    aplicarFiltros();
+  });
+
+  container.appendChild(tagEl);
+
+  aplicarFiltros();
+}
+
+// =========================
+// MODAL
+// =========================
+const modal = document.createElement('div');
+modal.className = 'modal';
+document.body.appendChild(modal);
+
+function abrirModal(bar) {
   const horariosHTML = (bar.horarios || [])
     .map(h => `<p>${h.dia}: ${h.abertura} - ${h.fechamento}</p>`)
     .join('');
 
-  content.innerHTML = `
-    <div style="position: relative;">
-
+  modal.innerHTML = `
+    <div class="modal-content">
       <button class="modal-close" onclick="fecharModal()">✕</button>
 
-      <img src="${bar.imagem}" class="modal-img" alt="${bar.bar}">
+      <img src="${bar.imagem}" class="modal-img">
 
       <div class="modal-body">
-
         <h2>${bar.bar}</h2>
-
         <p class="modal-prato">${bar.prato}</p>
 
         <p class="modal-descricao">
@@ -110,40 +284,24 @@ function abrirModal(bar) {
         </div>
 
         <div class="modal-horarios">
-          <h4>Horários de funcionamento</h4>
+          <h4>Horários</h4>
           ${horariosHTML}
         </div>
-
       </div>
     </div>
   `;
 
   modal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
 }
 
 function fecharModal() {
   modal.style.display = 'none';
+  document.body.style.overflow = 'auto';
 }
 
-function aplicarFiltros() {
-  const termo = searchInput.value.toLowerCase();
-  const dia = filtroDia.value;
-  const bairro = filtroBairro.value;
-  const regiao = filtroRegiao.value;
-
-  const filtrados = bares.filter(bar => {
-    return (
-      (!termo || bar.bar.toLowerCase().includes(termo)) &&
-      (!bairro || bar.bairro === bairro) &&
-      (!regiao || bar.regiao === regiao) &&
-      (!dia || bar.horarios.some(h => h.dia === dia))
-    );
-  });
-
-  renderizar(filtrados);
-}
-
-searchInput.addEventListener('input', aplicarFiltros);
-filtroDia.addEventListener('change', aplicarFiltros);
-filtroBairro.addEventListener('change', aplicarFiltros);
-filtroRegiao.addEventListener('change', aplicarFiltros);
+modal.addEventListener('click', (e) => {
+  if (e.target === modal) {
+    fecharModal();
+  }
+});

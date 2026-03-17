@@ -11,7 +11,9 @@
     />
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
+    <!-- HEADER -->
     <header class="header">
       <div class="header-overlay">
         <h1>🍻 Guia de Botecos - CDB 2026</h1>
@@ -19,56 +21,94 @@
       </div>
     </header>
 
+    <!-- CONTEÚDO -->
     <main class="container">
-      <div class="filtros">
-        <input type="text" id="search" placeholder="Buscar bar..." />
+      
+      <!-- BUSCA PRINCIPAL -->
+      <section class="busca-principal">
+        <input
+          type="text"
+          id="search"
+          placeholder="Buscar bar pelo nome..."
+        />
+      </section>
 
-        <select id="filtro-dia">
-          <option value="">Todos os dias</option>
-          <option>Segunda-feira</option>
-          <option>Terça-feira</option>
-          <option>Quarta-feira</option>
-          <option>Quinta-feira</option>
-          <option>Sexta-feira</option>
-          <option>Sábado</option>
-          <option>Domingo</option>
-        </select>
+      <!-- FILTROS -->
+      <section class="filtros">
+        <h2 class="filtros-titulo">Filtros</h2>
 
-        <select id="filtro-bairro">
-          <option value="">Todos os bairros</option>
-        </select>
+        <div class="filtros-grid">
+          <select id="filtro-dia">
+            <option value="">Todos os dias</option>
+            <option>Segunda-feira</option>
+            <option>Terça-feira</option>
+            <option>Quarta-feira</option>
+            <option>Quinta-feira</option>
+            <option>Sexta-feira</option>
+            <option>Sábado</option>
+            <option>Domingo</option>
+          </select>
 
-        <select id="filtro-regiao">
-          <option value="">Todas as regiões</option>
-        </select>
-      </div>
+          <select id="filtro-bairro">
+            <option value="">Todos os bairros</option>
+          </select>
 
-      <div id="lista-bares" class="grid"></div>
-      <div id="empty-state" class="empty-state" style="display: none">
-        <h3>🍻 Nenhum bar participante encontrado</h3>
-        <p>Tente ajustar os filtros.</p>
-      </div>
+          <select id="filtro-regiao">
+            <option value="">Todas as regiões</option>
+          </select>
+        </div>
+
+        <!-- TAGS (BUSCA) -->
+        <div class="busca-tags">
+          <input
+            type="text"
+            id="input-tag"
+            placeholder="Buscar ingredientes que goste (ex: costela, queijo...)"
+          />
+          <div id="sugestoes-tags" class="sugestoes"></div>
+        </div>
+
+        <!-- TAGS SELECIONADAS -->
+        <div id="filtro-tags" class="tags-container"></div>
+
+        <!-- BOTÃO LIMPAR -->
+        <button id="limpar-filtros" class="btn-limpar">
+          Limpar filtros
+        </button>
+      </section>
+
+      <!-- LISTA -->
+      <section>
+        <div id="lista-bares" class="grid"></div>
+
+        <div id="empty-state" class="empty-state" style="display: none">
+          <h3>🍻 Nenhum bar participante encontrado</h3>
+          <p>Tente ajustar os filtros.</p>
+        </div>
+      </section>
+
     </main>
+
+    <!-- FOOTER -->
     <footer class="footer">
       <div class="footer-content">
         <p>
-          Este site foi desenvolvido por mim com fins exclusivamente
-          educacionais. Não possui qualquer objetivo comercial ou lucrativo.
+          Este site foi desenvolvido com fins exclusivamente educacionais,
+          sem qualquer objetivo comercial.
         </p>
 
         <p>
-          Todas as informações apresentadas estão disponíveis no site oficial do
-          evento e as imagens utilizadas pertencem aos seus respectivos
-          proprietários.
+          Todas as informações estão disponíveis no site oficial do evento.
+          As imagens pertencem aos seus respectivos proprietários.
         </p>
 
-        <p>Gustavo Henrique</p>
+        <p><strong>Gustavo Henrique</strong></p>
 
         <div class="footer-links">
           <a href="https://github.com/guourso" target="_blank">🐙 GitHub</a>
-          <a href="https://www.instagram.com/guourso/" target="_blank"
-            >📸 Instagram</a
-          >
+          <a href="https://www.instagram.com/guourso/" target="_blank">
+            📸 Instagram
+          </a>
         </div>
 
         <p class="footer-copy">© 2026 - Projeto de estudo</p>
