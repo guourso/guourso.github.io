@@ -63,14 +63,18 @@ function renderizar(lista) {
     const card = document.createElement('div');
     card.className = 'bar-card';
 
-    card.innerHTML = `
-      <img src="${bar.imagem}" alt="${bar.bar}">
-      <h3>${bar.bar}</h3>
-      <p>${bar.prato}</p>
-      <button onclick='abrirModal(${JSON.stringify(bar)})'>
-        Ver detalhes
-      </button>
-    `;
+card.innerHTML = `
+  <img src="${bar.imagem}" alt="${bar.bar}">
+
+  <div class="bar-card-content">
+    <h3>${bar.bar}</h3>
+    <p>${bar.prato}</p>
+
+    <button onclick='abrirModal(${JSON.stringify(bar)})'>
+      Ver detalhes
+    </button>
+  </div>
+`;
 
     container.appendChild(card);
   });
