@@ -15,7 +15,7 @@
 
 /* BASE */
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   background: var(--bege);
   color: var(--preto);
 }
@@ -23,7 +23,7 @@ body {
 /* HEADER */
 .header {
   height: 300px;
-  background-image: url('./assets/assests_1.png');
+  background-image: url("./assets/assests_1.png");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -33,10 +33,7 @@ body {
   position: absolute;
   inset: 0;
 
-  background: linear-gradient(
-    rgba(0,0,0,0.6),
-    rgba(0,0,0,0.4)
-  );
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4));
 
   display: flex;
   flex-direction: column;
@@ -74,7 +71,8 @@ body {
   border-radius: 8px;
 }
 
-input, select {
+input,
+select {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -126,7 +124,6 @@ input {
   cursor: pointer;
   padding: 10px;
   font-size: 0.9rem;
-
 }
 
 /* MODAL BASE */
@@ -138,7 +135,7 @@ input {
   height: 100%;
   display: none;
 
-  background: rgba(0,0,0,0.6);
+  background: rgba(0, 0, 0, 0.6);
 
   justify-content: center;
   align-items: center;
@@ -228,7 +225,6 @@ input {
 
 /* TABLET */
 @media (max-width: 900px) {
-
   .header {
     height: 220px;
   }
@@ -246,10 +242,8 @@ input {
   }
 }
 
-
 /* MOBILE */
 @media (max-width: 600px) {
-
   /* HEADER */
   .header {
     height: 180px;
@@ -268,7 +262,8 @@ input {
     flex-direction: column;
   }
 
-  input, select {
+  input,
+  select {
     width: 100%;
   }
 
@@ -315,7 +310,6 @@ input {
   .modal-horarios {
     font-size: 0.85rem;
   }
-
 }
 /* ========================= */
 /* FOOTER */
@@ -344,5 +338,21 @@ input {
 .footer-copy {
   margin-top: 10px;
   font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+.footer-links {
+  margin: 15px 0;
+}
+
+.footer-links a {
+  color: var(--amarelo);
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0 10px;
+  transition: opacity 0.2s ease;
+}
+
+.footer-links a:hover {
   opacity: 0.7;
 }

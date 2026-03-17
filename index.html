@@ -1,68 +1,76 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Guia de Botecos</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guia de Botecos</title>
 
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-overlay">
+        <h1>🍻 Guia de Botecos - CDB 2026</h1>
+        <p>Feito pra quem ama o CDB de ❤️</p>
+      </div>
+    </header>
 
-  <header class="header">
-    <div class="header-overlay">
-      <h1>🍻 Guia de Botecos - CDB 2026</h1>
-      <p>Feito pra quem ama o CDB de ❤️</p>
-    </div>
-  </header>
+    <main class="container">
+      <div class="filtros">
+        <input type="text" id="search" placeholder="Buscar bar..." />
 
-  <main class="container">
+        <select id="filtro-dia">
+          <option value="">Todos os dias</option>
+          <option>Segunda-feira</option>
+          <option>Terça-feira</option>
+          <option>Quarta-feira</option>
+          <option>Quinta-feira</option>
+          <option>Sexta-feira</option>
+          <option>Sábado</option>
+          <option>Domingo</option>
+        </select>
 
-    <div class="filtros">
-      <input type="text" id="search" placeholder="Buscar bar..." />
+        <select id="filtro-bairro">
+          <option value="">Todos os bairros</option>
+        </select>
 
-      <select id="filtro-dia">
-        <option value="">Todos os dias</option>
-        <option>Segunda-feira</option>
-        <option>Terça-feira</option>
-        <option>Quarta-feira</option>
-        <option>Quinta-feira</option>
-        <option>Sexta-feira</option>
-        <option>Sábado</option>
-        <option>Domingo</option>
-      </select>
+        <select id="filtro-regiao">
+          <option value="">Todas as regiões</option>
+        </select>
+      </div>
 
-      <select id="filtro-bairro">
-        <option value="">Todos os bairros</option>
-      </select>
+      <div id="lista-bares" class="grid"></div>
+    </main>
+    <footer class="footer">
+      <div class="footer-content">
+        <p>
+          Este site foi desenvolvido por mim com fins exclusivamente
+          educacionais. Não possui qualquer objetivo comercial ou lucrativo.
+        </p>
 
-      <select id="filtro-regiao">
-        <option value="">Todas as regiões</option>
-      </select>
-    </div>
+        <p>
+          Todas as informações apresentadas estão disponíveis no site oficial do
+          evento e as imagens utilizadas pertencem aos seus respectivos
+          proprietários.
+        </p>
 
-    <div id="lista-bares" class="grid"></div>
+        <p>Gustavo Henrique</p>
 
-  </main>
-  <footer class="footer">
-  <div class="footer-content">
-    <p>
-      Este site foi desenvolvido por mim com fins exclusivamente educacionais.
-      Não possui qualquer objetivo comercial ou lucrativo.
-    </p>
+        <div class="footer-links">
+          <a href="https://github.com/guourso" target="_blank">🐙 GitHub</a>
+          <a href="https://www.instagram.com/guourso/" target="_blank"
+            >📸 Instagram</a
+          >
+        </div>
 
-    <p>
-      Todas as informações apresentadas estão disponíveis no site oficial do evento
-      e as imagens utilizadas pertencem aos seus respectivos proprietários.
-    </p>
+        <p class="footer-copy">© 2026 - Projeto de estudo</p>
+      </div>
+    </footer>
 
-    <p class="footer-copy">
-      © 2026 - Projeto de estudo
-    </p>
-  </div>
-</footer>
-
-  <script src="script.js"></script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
