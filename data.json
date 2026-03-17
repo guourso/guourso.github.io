@@ -1,0 +1,2302 @@
+[
+  {
+    "bar": "222",
+    "prato": "Buraquim Quente",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09110856/222_buraquimquente_bh_2026_pauloti_unibh-4859-1024x684.jpg",
+    "descricao": "Minipães de sal com gergelim, recheados com carne de panela e finalizados com queijo canastra e couve crispy.",
+    "endereco": "R. Francisco Deslandes, 222 | Cruzeiro, Belo Horizonte – MG",
+    "bairro": "Cruzeiro",
+    "regiao": "Centro-Sul",
+    "telefone": "3135643061",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "19:30" }
+    ]
+  },
+  {
+    "bar": "Alexandre’s Bar",
+    "prato": "Porco “AMOSTARDA”",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09110859/alexandresbar_porcoamostarda_pauloti_unibh-3271-1024x683.jpg",
+    "descricao": "Costela suína no purê de moranga com tapenade de mostarda com azeitona preta.",
+    "endereco": "R. David Alves do Vale, 68 | Santa Rosa, Belo Horizonte – MG",
+    "bairro": "Santa Rosa",
+    "regiao": "Pampulha",
+    "telefone": "31997753957",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Andrade’s Beer",
+    "prato": "Ossadinha Atolada",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09110901/andradesbeer_ossadinhaatolada_bh_2026_rodneycosta_unibh-4615-1024x684.jpg",
+    "descricao": "Pescoço de boi com mandioca cozida e agrião, acompanhado de paçoca de carne de sol e torresmo.",
+    "endereco": "R. Dona Geni, 32 | Maria Helena, Belo Horizonte – MG",
+    "bairro": "Maria Helena",
+    "regiao": "Venda Nova",
+    "telefone": "31989145104",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "16:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Armazém Santa Amélia",
+    "prato": "Chucrute de Mineiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09110903/armazemsantaamelia_chucretedemineiro_bh_2026_rodneycosta_unibh-3650-1024x683.jpg",
+    "descricao": "Vinagrete de repolho, costelão de boi ao molho do Armazém, acompanhado de batatas-bravas, farofa de bacon crocante e chutney de abacaxi com pimenta-dedo-de-moça.",
+    "endereco": "Rua da Sinfonia, 253 | Santa Amélia, Belo Horizonte – MG",
+    "bairro": "Santa Amélia",
+    "regiao": "Pampulha",
+    "telefone": "31972174192",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "01:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "01:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "01:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "01:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "01:00" },
+      { "dia": "Domingo", "abertura": "13:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Avalanche Bar e Restaurante",
+    "prato": "No Peito e na Raiz",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111005/avalancheespeteria_nopeitonaraiz_bh_2026_pauloti_unibh-4514-1024x683.jpg",
+    "descricao": "Maçã de peito cozida com couve ao alho, acompanhada de purê cremoso de mandioca.",
+    "endereco": "R. Doutor Álvaro Camargos, 1113 | São João Batista, Belo Horizonte – MG",
+    "bairro": "São João Batista",
+    "regiao": "Venda Nova",
+    "telefone": "31998990146",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Azougue Fogo e Bar",
+    "prato": "On co tô",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111007/azouquefogobar_oncoto_bh_2026_rodneycosta_unibh-4638-1024x684.jpg",
+    "descricao": "Moelinha de frango escondida sob purê de alho-poró e crispy de cebola.",
+    "endereco": "Rua do Ouro, 835 | Serra, Belo Horizonte – MG",
+    "bairro": "Serra",
+    "regiao": "Centro-Sul",
+    "telefone": "3135823109",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Baiúca",
+    "prato": "Pastel Pega no Poró",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111008/baiuca_pastelpeganoporo_bh_2026_pauloti_unibh-4013-1024x683.jpg",
+    "descricao": "Pastel de alho-poró com queijo canastra acompanhado de farofa de couve, costelinha, gremolata e molho de goiabada.",
+    "endereco": "R. Piauí, 1884 | Funcionários, Belo Horizonte – MG",
+    "bairro": "Funcionários",
+    "regiao": "Centro-Sul",
+    "telefone": "3132255602",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Quarta-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Quinta-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Sexta-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Bar Bambú",
+    "prato": "Tô com ragu na mão",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111012/barbambu_tocomnagunamao_bh_2026_isaquerodrigues_unibh-3461-1024x683.jpg",
+    "descricao": "Repolho ao creme com ragu de fraldinha.",
+    "endereco": "R. Divisa Nova, 670 | Salgado Filho, Belo Horizonte – MG",
+    "bairro": "Salgado Filho",
+    "regiao": "Oeste",
+    "telefone": "31995210404",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "18:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Bar Bendita Baderna",
+    "prato": "Bendita porpeta",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111113/barbenditabaderna_benditaporpeta_bh_2026_pauloti_unibh-5051-1024x684.jpg",
+    "descricao": "Porpeta de cupim recheada com alho-poró e queijo canastra, ao molho de tomate da casa. Acompanha: farofa de costela (suína) com ora-pro-nóbis",
+    "endereco": "R. Silva Fortes, 47 | União, Belo Horizonte – MG",
+    "bairro": "União",
+    "regiao": "Nordeste",
+    "telefone": "31991823030",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" },
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Cintia",
+    "prato": "Chuleta Descontraída",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111115/bardacintia_chuletadescontraida_bh_2026_pauloti_unibh-5257-1024x684.jpg",
+    "descricao": "Chuleta empanada, molho bechamel com repolho, bacon crispy salpicado por cima, acompanhada de um delicioso melaço para dar um toque agridoce ao prato.",
+    "endereco": "R. Pastor Rui Franco, 257 | São João Batista, Belo Horizonte – MG",
+    "bairro": "São João Batista",
+    "regiao": "Venda Nova",
+    "telefone": "36469725",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "15:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Fia",
+    "prato": "Boca quente, coração mole",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111117/bardafia_lomboquentecoracaomole_vicentealexandre_unibh-3148-1024x683.jpg",
+    "descricao": "Pernil assado, acompanhado de tomate recheado com pimenta-dedo-de-moça, geleia de maracujá e finalizado com queijo minas e couve crispy.",
+    "endereco": "R. dos Astecas, 2722 | Santa Mônica, Belo Horizonte – MG",
+    "bairro": "Santa Mônica",
+    "regiao": "Pampulha e Venda Nova",
+    "telefone": "31985402775",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Gisa",
+    "prato": "Ajoelhou tem que rezar",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111119/bardagisa_ajoelhoutemquerezar_giovanaevilyn_unibh-3157-1024x683.jpg",
+    "descricao": "Joelho de porco acompanhado de ora-pro-nóbis e polenta frita.",
+    "endereco": "Rua Maria Ferreira da Silva, 367 | Fernão Dias, Belo Horizonte – MG",
+    "bairro": "Fernão Dias",
+    "regiao": "Nordeste",
+    "telefone": "31984840138",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "13:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "13:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "13:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "13:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "10:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "10:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Lu",
+    "prato": "Popeye Mineiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111121/bardalu_popeyemineiro_bh_2026_rodneycosta_unibh-4185-1024x683.jpg",
+    "descricao": "Parmegiana de alcatra regada com molho pomodoro artesanal, manjericão e muçarela derretida. Acompanhada de molho bechamel de espinafre e torradas rústicas.",
+    "endereco": "R. Geralda Marinho, 41 | São João Batista, Belo Horizonte – MG",
+    "bairro": "São João Batista",
+    "regiao": "Venda Nova",
+    "telefone": "31999327787",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:30", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "12:30", "fechamento": "19:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Praça",
+    "prato": "Cadim de Nós",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111222/bardapraca_cadimdenos_bh_2026_pauloti_unibh-4502-1024x683.jpg",
+    "descricao": "Bolinho de carne recheado com alho-poró, requeijão e queijo parmesão, com farofa de couve com torresmo e molho da casa.",
+    "endereco": "Rua Oeste, 517 | Calafate, Belo Horizonte – MG",
+    "bairro": "Calafate",
+    "regiao": "Oeste",
+    "telefone": "3193068533",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "21:00" },
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "21:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "21:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "21:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "21:00" }
+    ]
+  },
+  {
+    "bar": "Bar da Silvânia",
+    "prato": "Tesouro caipira com encanto da horta",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111224/bardasilvania_tesourocaipiracomencantodahorta_bh_2026_giovanaevelyn_unibh-3364-1024x683.jpg",
+    "descricao": "Corte suíno ao molho curto, creme de mandioca, farofa de couve com bacon e acelga fresca ao alho.",
+    "endereco": "R. Soares Nogueira, 801 | Camargos, Belo Horizonte – MG",
+    "bairro": "Camargos",
+    "regiao": "Oeste",
+    "telefone": "31993387815",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "00:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "00:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "00:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "00:30" },
+      { "dia": "Sábado", "abertura": "17:30", "fechamento": "00:30" }
+    ]
+  },
+  {
+    "bar": "Bar do Bartolomeu",
+    "prato": "Trio Mineiro-Bão di Mais",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111226/bardobartolomeu_triomineirobaodemais_bh_2026_rodneycosta_unibh-4207-1024x683.jpg",
+    "descricao": "Maçã de peito cozida com molho da casa, purê de batata com queijo, couve com bacon.",
+    "endereco": "R. Arthur Luchesi, 356 | Santa Helena, Belo Horizonte – MG",
+    "bairro": "Santa Helena",
+    "regiao": "Barreiro",
+    "telefone": "31975479909",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "14:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Bem",
+    "prato": "Brasileirinho Raiz",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111228/bardobem_brsileirinhoraiz_bh_2026_rodneycosta_unibh-5080-1024x684.jpg",
+    "descricao": "Ossobuco com angu ‘molin’, ‘temperadim’, com couve rasgadinha e molho da casa.",
+    "endereco": "Rua Vicentina Coutinho Camargos, 100 | Álvaro Camargos, Belo Horizonte – MG",
+    "bairro": "Álvaro Camargos",
+    "regiao": "Noroeste",
+    "telefone": "31991745708",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:30", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:30", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:30", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:30", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "13:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Dedinho",
+    "prato": "Kaftei Vossa Vontade",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111229/bardodedinho_kafteivossamensagem_bh_2026_isabelaaraujo_unibh-3503-1024x683.jpg",
+    "descricao": "Kafta recheada com queijo, acompanha batata da mamãe e salada americana. Com molhos da casa.",
+    "endereco": "Avenida Guarapari, 872 | Santa Amélia, Belo Horizonte – MG",
+    "bairro": "Santa Amélia",
+    "regiao": "Pampulha",
+    "telefone": "31999902018",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "12:00", "fechamento": "00:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:30" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Bar do João (São João Batista)",
+    "prato": "Na Boca do Boi",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111331/bardojoao_nabocadopovo_bh_2026_rodneycosta_unibh-4472-1024x683.jpg",
+    "descricao": "Língua de boi ao molho de cerveja escura, com agrião, acompanhada de pães.",
+    "endereco": "R. Geralda Marinho, 117 | São João Batista, Belo Horizonte – MG",
+    "bairro": "São João Batista",
+    "regiao": "Venda Nova",
+    "telefone": "3134511344",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:30", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:30", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Bar do Kim",
+    "prato": "Fraldinha Suprema",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111333/bardokim_fraldinhasupreme_bh_2026_pauloti_unibh-4724-1024x684.jpg",
+    "descricao": "Fraldinha com creme de espinafre com crispy de cebola e geleia de tomate.",
+    "endereco": "Rua Júlio de Castilho, 1071 | Palmeiras, Belo Horizonte – MG",
+    "bairro": "Palmeiras",
+    "regiao": "Oeste",
+    "telefone": "31987768550",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Momô",
+    "prato": "Esfera Suína do Momô",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111335/bardomomo_esferasuina_rodneycosta_unibh-3114-1024x683.jpg",
+    "descricao": "Almôndega de linguiça suína recheada com pimenta-biquinho ao molho de tomate. Acompanhada de farofa de torresmo, ninho de couve com ovo de codorna e muçarela.",
+    "endereco": "Avenida Coronel José Benjamim, 777 | Padre Eustáquio, Belo Horizonte – MG",
+    "bairro": "Padre Eustáquio",
+    "regiao": "Noroeste",
+    "telefone": "31987818567",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Nelson",
+    "prato": "Brasileirinho",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111336/bardonelson_brasileirinho_bh_2026_rodneycosta_unibh-4559-1024x684.jpg",
+    "descricao": "Sobrecoxa de frango no molho de cebola queimada, acompanhada de angu na cama de mostarda.",
+    "endereco": "R. Vicente Risola, 1000 | Santa Inês, Belo Horizonte – MG",
+    "bairro": "Santa Inês",
+    "regiao": "Leste",
+    "telefone": "996726908",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "15:00", "fechamento": "23:55" },
+      { "dia": "Quarta-feira", "abertura": "15:00", "fechamento": "23:55" },
+      { "dia": "Quinta-feira", "abertura": "15:00", "fechamento": "23:55" },
+      { "dia": "Sexta-feira", "abertura": "15:00", "fechamento": "23:55" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:55" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Peixinho",
+    "prato": "Tilápia Roletera",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111338/bardopeixinho_tilapiaroletera_bh_2026_isaquerodrigues_unibh-3830-1024x683.jpg",
+    "descricao": "Roletes de filé de tilápia empanado, recheados com mix de rúcula, muçarela e tomate seco. Acompanha molho especial da casa.",
+    "endereco": "Avenida Bernardo de Vasconcelos, 1824 | Cachoeirinha, Belo Horizonte – MG",
+    "bairro": "Cachoeirinha",
+    "regiao": "Nordeste",
+    "telefone": "3137895216",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "10:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Primo",
+    "prato": "Maçã de peito à moda do primo",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/16114137/whatsapp-image-2026-03-16-at-14.39.03-1024x683.jpeg",
+    "descricao": "Maçã de peito com batata-doce e mostarda.",
+    "endereco": "Avenida Amazonas, 4649 | Nova Suíça, Belo Horizonte – MG",
+    "bairro": "Nova Suíça",
+    "regiao": "Oeste",
+    "telefone": "31995323260",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "18:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Bar do Regis",
+    "prato": "Leitão e Eva no Paraíso",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111441/bardoregis_leilaoeevanoparaiso_bh_2026_giovanaevelyn_unibh-3344-1024x683.jpg",
+    "descricao": "Costelinha suína, polenta com queijo e ora-pro-nóbis.",
+    "endereco": "R. Gávea, 422 | Jardim América, Belo Horizonte – MG",
+    "bairro": "Jardim América",
+    "regiao": "Oeste",
+    "telefone": "31971158894",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Bar dos Meninos",
+    "prato": "A copa é nossa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111445/bardosmeninos_acopaenossa_bh_2026_pauloti_unibh-4886-1024x684.jpg",
+    "descricao": "Copa lombo assado com escarola refogada no alho. Acompanha farofa de soja.",
+    "endereco": "Rua Lindolfo Deodoro, 503 – A | Salgado Filho, Belo Horizonte – MG",
+    "bairro": "Salgado Filho",
+    "regiao": "Oeste",
+    "telefone": "31983803201",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "17:30", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Bar Du Du",
+    "prato": "Até quem não gosta come",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111447/bardudu_atequemnaogostacome_bh_2026_pauloti_unibh-4066-1024x683.jpg",
+    "descricao": "Couve-flor empanada no queijo parmesão com geleia da casa.",
+    "endereco": "R. Vinte e Oito de Setembro, 229 | Esplanada, Belo Horizonte – MG",
+    "bairro": "Esplanada",
+    "regiao": "Leste",
+    "telefone": "(31) 3646-1551 | (31) 98717-0450",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "14:00" },
+      { "dia": "Segunda-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "14:00" },
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "14:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "14:00" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "14:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Bar Du Magrelo",
+    "prato": "Canela Suada",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111548/bardomagrelo_canelasuada_bh_2026_pauloti_unibh-3415-1024x683.jpg",
+    "descricao": "Ossobuco ao molho, com ora-pro-nóbis refogado no alho e na farinha de milho, cebola-roxa e cheiro-verde.",
+    "endereco": "Rua São Felipe, 21 – Perto do Independência | Horto, Belo Horizonte – MG",
+    "bairro": "Horto",
+    "regiao": "Leste",
+    "telefone": "3136544059",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "18:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Bar e Restaurante Bom Sabor",
+    "prato": "Sabores da Roça",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111010/bomsabor_saboresdaroca_bh_2026_pauloti_unibh-5218-1024x684.jpg",
+    "descricao": "Suflê de milho-verde, recheado com carne cozida à moda da casa, acompanhado de mostarda refogada.",
+    "endereco": "R. Java, 386 | Nova Suíça, Belo Horizonte – MG",
+    "bairro": "Nova Suíça",
+    "regiao": "Oeste",
+    "telefone": "3133348205",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Bar e Restaurante do Branco",
+    "prato": "Bem Casados",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111549/bardobranco_bemcasado_bh_2026_isaquerodrigues_unibh-3534-1024x683.jpg",
+    "descricao": "Torresmo de barriga, batata recheada com creme e carne desfiada, charuto de couve.",
+    "endereco": "Rua Pitangui, 3197 | Sagrada Família, Belo Horizonte – MG",
+    "bairro": "Sagrada Família",
+    "regiao": "Leste",
+    "telefone": "3134673993",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "16:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Bar Estabelecimento",
+    "prato": "Com a barriga no fogão",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111551/barestabelecimento_comabarriganofogo_bh_2026_rodneycosta_unibh-5068-1024x684.jpg",
+    "descricao": "Barriga de porco de panela (pancetta) cozida com cebolas, pimentões, molho inglês, “fritas” de mandioca e espinafre, farofa de couve e molho de abacaxi.",
+    "endereco": "R. Monte Alegre, 160 | Serra, Belo Horizonte – MG",
+    "bairro": "Serra",
+    "regiao": "Centro-Sul",
+    "telefone": "31983921059",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:30", "fechamento": "15:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Bar Junto Juntinho",
+    "prato": "Marinheiro Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111553/juntojuntinho_marinheiropopeye_bh_2026_julianunes_unibh-3395-1024x683.jpg",
+    "descricao": "Panqueca de espinafre recheada com carne bovina e bacon envolvida com molho de tomate natural e parmesão. Acompanhada por um mix de verduras e fatias de banana-da-terra.",
+    "endereco": "Rua Cura D’Ars, 542 | Prado, Belo Horizonte – MG",
+    "bairro": "Prado",
+    "regiao": "Oeste",
+    "telefone": "31988068530",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Bar Mania Mineira",
+    "prato": "Joelho do Vovô Pig",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111555/maniamineira_joelhodavovopig_bh_2026_pauloti_unibh-3996-1024x683.jpg",
+    "descricao": "Joelho de porco com milho assado, polenta e mostarda refogada.",
+    "endereco": "Rua Paracatu, 1099 | Santo Agostinho, Belo Horizonte – MG",
+    "bairro": "Santo Agostinho",
+    "regiao": "Centro-Sul",
+    "telefone": "31996743990",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Bar Pompéu",
+    "prato": "Porquinho Melado",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111656/barpompeu_porquinhomelado_isabelaaraujo_unibh-3547-1024x683.jpg",
+    "descricao": "Costelinha de porco ao melaço de rapadura, limão-capeta e cachaça. Acompanhada de purê de batata, com cenoura e alho-poró.",
+    "endereco": "R. São Miguel, 779 – antigo 1243 | Itapoã, Belo Horizonte – MG",
+    "bairro": "Itapoã",
+    "regiao": "Pampulha",
+    "telefone": "3136653506",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "12:00", "fechamento": "01:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "01:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Bar Stella",
+    "prato": "Porco à Mineira",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111658/barstellaoficial_porcoamineira_bh_2026_rodneycosta_unibh-4700-1024x684.jpg",
+    "descricao": "Costelinha suína ao molho agridoce de goiaba com ragu de pernil, servida sobre polenta com muçarela, crispy de acelga e torradinhas de acompanhamento.",
+    "endereco": "Av. Saramenha, 1599 | Guarani, Belo Horizonte – MG",
+    "bairro": "Guarani",
+    "regiao": "Norte",
+    "telefone": "3134333755",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Bar Temático Sta. Teresa",
+    "prato": "O Segredo da Força do Lampião",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111700/bartematico_osegredodaforcadolampiao_bh_2026_rodneycosta_unibh-4664-1024x684.jpg",
+    "descricao": "Polenta com costelinha suína e molho de espinafre.",
+    "endereco": "R. Pirite, 187 | Santa Teresa, Belo Horizonte – MG",
+    "bairro": "Santa Teresa",
+    "regiao": "Leste",
+    "telefone": "3134814646",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Barrigudinha Buteco",
+    "prato": "Flor de Minas",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111702/barrigudinha_flordeminas_bh_2026_luizafernandes_unibh-3472-1024x683.jpg",
+    "descricao": "Sobrecoxa desossada e empanada com mix de verduras: couve, brócolis, couve-flor, repolho, tomate-cereja. Acompanhada de molho de manteiga com alho e cebola.",
+    "endereco": "Av. dos Engenheiros, 1071 | Alípio de Melo, Belo Horizonte – MG",
+    "bairro": "Alípio de Melo",
+    "regiao": "Pampulha",
+    "telefone": "(31) 3443-1156 | (31) 99839-8899",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "16:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "16:30", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "16:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "16:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:30", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:30", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Barzim dos Amigos",
+    "prato": "Pé na Roça",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111704/barzimdosamigos_penaroca_bh_2026_joaovictor_unibh-3489-1024x683.jpg",
+    "descricao": "Dobradinha com pé de porco, calabresa, feijão-branco e crispy de couve.",
+    "endereco": "R. Lindolfo de Azevedo, 1263 | Jardim América, Belo Horizonte – MG",
+    "bairro": "Jardim América",
+    "regiao": "Oeste",
+    "telefone": "31975602803",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "21:00" },
+      { "dia": "Domingo", "abertura": "14:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Bazin Bar",
+    "prato": "Conceição",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111805/bazim_conceicao_bh_2026_pauloti_unibh-4811-1024x684.jpg",
+    "descricao": "Blend de carne recheada com queijo ao molho de tomate da casa, gratinada com queijo, acompanhada de purê de canjica de milho branco e pesto de couve.",
+    "endereco": "R. Min. Orozimbo Nonato, 1053| Dona Clara, Belo Horizonte – MG",
+    "bairro": "Dona Clara",
+    "regiao": "Pampulha",
+    "telefone": "31972171020",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "13:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Beco Restaurante",
+    "prato": "Verde que te quero rabo!",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111807/becorestaurante_verdequetequerorabo_bh_2026_pauloti_unibh-4495-1024x683.jpg",
+    "descricao": "Rabada desfiada com cuscuz, acompanhada de vinagrete de alho-poró e creme verde de agrião.",
+    "endereco": "R. dos Tamoios, 232 | Centro, Belo Horizonte – MG",
+    "bairro": "Centro",
+    "regiao": "Centro-Sul",
+    "telefone": "3132721489",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "22:20" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "22:20" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "22:20" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "22:20" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "22:20" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "22:20" }
+    ]
+  },
+  {
+    "bar": "Bella Bar e Restaurante",
+    "prato": "Bello Murro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111809/bellabar_bellomurro_bh_2026_pauloti_unibh-4781-1024x684.jpg",
+    "descricao": "Batatinhas ao murro, douradas na manteiga com mostarda, cobertas com pernil desfiado, repolho-roxo e farofa crocante de quiabo com calabresa e passas.",
+    "endereco": "Rua dos Odontólogos, 422 | Alípio de Melo, Belo Horizonte – MG",
+    "bairro": "Alípio de Melo",
+    "regiao": "Pampulha",
+    "telefone": "31992100144",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "22:30" },
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "22:30" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "22:30" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "22:30" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "22:30" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "22:30" }
+    ]
+  },
+  {
+    "bar": "Boi Major",
+    "prato": "Nascif Corrêa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111810/boimajor_nacifcorrea_bh_2026_rodneycosta_unibh-4323-1024x683.jpg",
+    "descricao": "Musseline de couve-flor, ragu de lombo defumado desconstruído, chucrute de repolho e semente de gergelim, acompanhada de nachos.",
+    "endereco": "R. Major Lopes, 7 | São Pedro, Belo Horizonte – MG",
+    "bairro": "São Pedro",
+    "regiao": "Centro-Sul",
+    "telefone": "(31) 99926-1624 | (31) 97105-1326",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Boteco 86",
+    "prato": "Trem de Minas",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111812/boteco86_tremdeminas_bh_2026_pauloti_unibh-4902-1024x684.jpg",
+    "descricao": "Bolinho de aipim recheado com torresmo de barriga desfiado e couve. Acompanha maionese de limão.",
+    "endereco": "R. Jacarina, 86 | Padre Eustáquio, Belo Horizonte – MG",
+    "bairro": "Padre Eustáquio",
+    "regiao": "Noroeste",
+    "telefone": "31996479898",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Botequim Buritis",
+    "prato": "Boi Bumbá",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111914/botequimburitis_boibumba_bh_2026_pauloti_unibh-4077-1024x683.jpg",
+    "descricao": "Carne de boi cozida ao molho de alho-poró, batata e bacon.",
+    "endereco": "Rua Vitório Magnavacca, 39 | Buritis, Belo Horizonte – MG",
+    "bairro": "Buritis",
+    "regiao": "Oeste",
+    "telefone": "3131664333",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Buteco do Lili",
+    "prato": "Sabores de Vó Maria",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111916/botecodolele_saboresdavomaria_isabelaaraujo_unibh-3258-1024x683.jpg",
+    "descricao": "Costelinha ao molho de cerveja preta com rapadura acompanhada de canjiquinha cremosa e couve crispy.",
+    "endereco": "R. Líbero Badaró, 493 | Dona Clara, Belo Horizonte – MG",
+    "bairro": "Dona Clara",
+    "regiao": "Pampulha",
+    "telefone": "3135825246",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Buteco Tô D’Boa",
+    "prato": "Escondidão Tô D’ Boa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111918/butecotodeboa_escondidinhotodeboa_bh_2026_rodneycosta_unibh-3587-1024x683.jpg",
+    "descricao": "Pernil cozido com molho especial, creme de batata com queijo muçarela, couve agridoce.",
+    "endereco": "Av. Virgílio de Melo Franco, 400 | Jardim Atlântico, Belo Horizonte – MG",
+    "bairro": "Jardim Atlântico",
+    "regiao": "Pampulha",
+    "telefone": "31991871649",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Buteco’s Bar",
+    "prato": "Nuhhh!!! de Rocha véi",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111920/butecosbar_nuhderochavei_bh_2026_rodneycosta_unibh-5132-1024x684.jpg",
+    "descricao": "Escondidim de carne de panela ao moio de cerveja preta com agrião, coberto com trem de um purê de couve-flor que nuhhh!. E, para ficar ainda mió, pra terminar, um queijinho gratinadim por cima de tudim. Vai tamém um pãozinho quentim e farofinha de vó, para aproveitar até o final.",
+    "endereco": "R. Ernesto Braga, 2 | Jardim Atlântico, Belo Horizonte – MG",
+    "bairro": "Jardim Atlântico",
+    "regiao": "Pampulha",
+    "telefone": "31992586505",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Butiquim 325",
+    "prato": "Quituti Árabe",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09111922/butiquim325_quitutiarabe_bh_2026_vicentealexandre_unibh-3630-1024x683.jpg",
+    "descricao": "Charuto de repolho recheado com arroz, carne moída e especiarias. Acompanhado de disco de kafta grelhado com molho da casa.",
+    "endereco": "Avenida Francisco Sá, 325 | Prado, Belo Horizonte – MG",
+    "bairro": "Prado",
+    "regiao": "Oeste",
+    "telefone": "31992578781",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "19:30" }
+    ]
+  },
+  {
+    "bar": "Butiquim On Cê Tá?",
+    "prato": "Língua Dobrada",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112024/butiquimonceta_linguadobradacomchampignonepuredecouveflor_bh_2026_rodneycosta_unibh-4256.jpg",
+    "descricao": "Língua com dobradinha bovina, pele suína e champignon. Acompanha: purê de couve-flor.",
+    "endereco": "Av. Gen. Olímpio Mourão Filho, 754 | Itapoã, Belo Horizonte – MG",
+    "bairro": "Itapoã",
+    "regiao": "Pampulha",
+    "telefone": "31991834727",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Café Palhares",
+    "prato": "Picadim",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112026/cafepalhares_picadimdecarne_bh_2026_rodneycosta_unibh-4797.jpg",
+    "descricao": "Picadinho de carne bovina, acompanhado de sunomono de talo de couve, torradas e finalizado com nuvem de queijo parmesão.",
+    "endereco": "Rua dos Tupinambás, 638 | Centro, Belo Horizonte – MG",
+    "bairro": "Centro",
+    "regiao": "Centro-Sul",
+    "telefone": "3132011841",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "10:00", "fechamento": "16:00" },
+      { "dia": "Terça-feira", "abertura": "10:00", "fechamento": "16:00" },
+      { "dia": "Quarta-feira", "abertura": "10:00", "fechamento": "16:00" },
+      { "dia": "Quinta-feira", "abertura": "10:00", "fechamento": "16:00" },
+      { "dia": "Sexta-feira", "abertura": "10:00", "fechamento": "16:00" },
+      { "dia": "Sábado", "abertura": "10:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Camisola Bar",
+    "prato": "Frango Raiz",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112028/camisolabar_frangoraiz_bh_2026_vicentealexandre_unibh-3575.jpg",
+    "descricao": "Sobrecoxa ensopada com ora-pro-nóbis e polenta.",
+    "endereco": "R. Luther King, 242 | Cidade Nova, Belo Horizonte – MG",
+    "bairro": "Cidade Nova",
+    "regiao": "Nordeste",
+    "telefone": "31999486915",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Cantina Arte Quintal",
+    "prato": "Porco Atolado na Lama",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112030/cantinaartequintal_porcoatoladonalama_juliacristine_unibh-3312.jpg",
+    "descricao": "Carne e pé de porco, molho de tomate e cebola. Acompanha tempurá de ora-pro-nóbis, refogado de mostarda e creme de milho.",
+    "endereco": "R. Realengo, 150 | Caiçaras, Belo Horizonte – MG",
+    "bairro": "Caiçaras",
+    "regiao": "Noroeste",
+    "telefone": "31999476695",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "14:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Cantinho da Baiana",
+    "prato": "Espírito de Porco",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112031/cantinhodabaiana_espiritodeporco_bh_2026_rodneycosta_unibh-4418.jpg",
+    "descricao": "Bisteca ao molho com purê de batata com alho-poró.",
+    "endereco": "R. Itaité, 422 | São Geraldo, Belo Horizonte – MG",
+    "bairro": "São Geraldo",
+    "regiao": "Leste",
+    "telefone": "31997627848",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "17:40", "fechamento": "22:00" },
+      { "dia": "Quinta-feira", "abertura": "17:40", "fechamento": "22:00" },
+      { "dia": "Sexta-feira", "abertura": "17:40", "fechamento": "22:00" },
+      { "dia": "Sábado", "abertura": "13:40", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "13:40", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Casa da Madrinha",
+    "prato": "Tesouro Escondido",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112133/restcasadamadrinha_tesouroescondido_bh_2026_kaiqueamorim_unibh-3741.jpg",
+    "descricao": "Croquete de couve-flor, batata, ora-pro-nóbis com proteína de soja. Servida com molho especial de queijo e chips de batata-doce.",
+    "endereco": "Av. Barbacena, 212 | Barro Preto, Belo Horizonte – MG",
+    "bairro": "Barro Preto",
+    "regiao": "Centro-Sul",
+    "telefone": "3130474787",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "22:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Casa Mojubá",
+    "prato": "Sabor Ancestral",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112135/barcasamojuba_saborancestral_bh_2026_pauloti_unibh-4980.jpg",
+    "descricao": "Charutinho de repolho-roxo recheado com ragu de pernil, acompanha creme de abóbora regado com glass de bacon e crispy de couve.",
+    "endereco": "Rua Mármore, 817 | Santa Teresa, Belo Horizonte – MG",
+    "bairro": "Santa Teresa",
+    "regiao": "Leste",
+    "telefone": "31992412771",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "21:00" }
+    ]
+  },
+  {
+    "bar": "Chapa Mágica",
+    "prato": "O Giro du Aio-Poró!",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112137/chapamagica_girodoaioporo_bh_2026_kaiqueamorim_unibh-3799.jpg",
+    "descricao": "Girassol de batatas assadas no azeite de ervas, frango desfiado com bacon, envolto em cream cheese e alho-poró e finalizado com queijo maçaricado.",
+    "endereco": "Av. Waldomiro Lobo, 305 | Guarani, Belo Horizonte – MG",
+    "bairro": "Guarani",
+    "regiao": "Norte",
+    "telefone": "31983677608",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Choperia América Norte Sul",
+    "prato": "Fondue de Buteco",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112138/choperiaamericanortesul_fonduedebuteco_bh_2026_julianunes_unibh-3674.jpg",
+    "descricao": "Trouxinhas de bacon, lombo recheado com ricota e espinafre acompanhado de um fondue de queijos mineiros, abacaxi com molho agridoce.",
+    "endereco": "R. Chico Rei, 190 | Estrela do Oriente, Belo Horizonte – MG",
+    "bairro": "Estrela do Oriente",
+    "regiao": "Oeste",
+    "telefone": "31995922703",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Chopp da Esquina",
+    "prato": "O Sabor na Lata",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112140/choppdaesquina_sabornalata_bh_2026_rodneycosta_unibh-5096.jpg",
+    "descricao": "Carne de lata suína, acompanhada de molho sugo com almeirão.",
+    "endereco": "R. Garret, 263 | Nova Granada, Belo Horizonte – MG",
+    "bairro": "Nova Granada",
+    "regiao": "Oeste",
+    "telefone": "31971407790",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Cipoeiro Bar",
+    "prato": "Linguiça Estourada Cipoeiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112242/cipoeiro_linguicaestouradacipoeiro_bh_2026_rodneycosta_unibh-3437.jpg",
+    "descricao": "Linguiça estourada com pimenta-biquinho, acompanhada de angu de milho-verde frito, ora-pro-nóbis e geleia de goiabada.",
+    "endereco": "Rua Desembargador José Satyro, 451 | Castelo, Belo Horizonte – MG",
+    "bairro": "Castelo",
+    "regiao": "Pampulha",
+    "telefone": "3187654361",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "18:30" }
+    ]
+  },
+  {
+    "bar": "Comida & Prosa",
+    "prato": "Rabada Embriagada",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112243/comidaeprosa_rabadaembriagada_ludmylasandrin_unibh-3894.jpg",
+    "descricao": "Rabada ao vinho com agrião e batata.",
+    "endereco": "Av. Francisco Sá, 306 | Prado, Belo Horizonte – MG",
+    "bairro": "Prado",
+    "regiao": "Oeste",
+    "telefone": "31996175584",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "17:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Companhia do Dino",
+    "prato": "Pescoço do Dino",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112245/campanhiadodino_pescocodeboidodino_rodneycosta_unibh-3209.jpg",
+    "descricao": "Pescoço de boi com farofa de alho e brócolis no vapor.",
+    "endereco": "Avenida Joaquim Clemente, 682 | Floramar, Belo Horizonte – MG",
+    "bairro": "Floramar",
+    "regiao": "Norte",
+    "telefone": "31993418788",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Conectados Bar",
+    "prato": "Couve-flor á cervejeira",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112247/conectadosbar_couvefloracervejeira_bh_2026_rodneycosta_unibh-5113.jpg",
+    "descricao": "Paleta cozida na cerveja preta, com calabresa e champignon, acompanhada de purê de couve-flor.",
+    "endereco": "Av. Francisco Sá, 280 | Prado, Belo Horizonte – MG",
+    "bairro": "Prado",
+    "regiao": "Oeste",
+    "telefone": "(31) 3568-8130 | (31) 99638-1822",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "15:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "22:30" }
+    ]
+  },
+  {
+    "bar": "COSMOS",
+    "prato": "Firmamento",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112249/cosmos_firmamento_bh_2026_julianunes_unibh-3756.jpg",
+    "descricao": "Carne de porco, farofa de couve, tiras de bacon e molho de geleia de abacaxi com pimenta.",
+    "endereco": "R. Vicente Risola, 1305 | Santa Inês, Belo Horizonte – MG",
+    "bairro": "Santa Inês",
+    "regiao": "Leste",
+    "telefone": "31991203515",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Deck Boi na Brasa",
+    "prato": "Glu Glu à Baiana",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112350/deckboibabrasa_glugluabaiana_bh_2026_pauloti_unibh-4994.jpg",
+    "descricao": "Pescoço de peru à baiana.",
+    "endereco": "R. Desembargador José Satyro, 302 | Manacás, Belo Horizonte – MG",
+    "bairro": "Manacás",
+    "regiao": "Pampulha",
+    "telefone": "31971830748",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:45" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:45" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:45" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:45" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "23:45" },
+      { "dia": "Domingo", "abertura": "17:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Dona Dora",
+    "prato": "Gira Gosto",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112352/donadora_giragosto_bh_2026_pauloti_unibh-4112.jpg",
+    "descricao": "Bolinho crocante de espinafre, recheado de costelinha e queijo. Acompanha molho de alho e geleia de abacaxi picante.",
+    "endereco": "R. Rio de Janeiro, 1205 | Centro, Belo Horizonte – MG",
+    "bairro": "Centro",
+    "regiao": "Centro-Sul",
+    "telefone": "31992278879",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Dona Ju Gastro Bar",
+    "prato": "Coisa de Vó",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112354/donajugastrobar_coisadevo_isaquerodrigues_unibh-3289.jpg",
+    "descricao": "Pescoço de boi (acém) marinado. Acompanhado de couve-flor com molho branco especial e fios de alho-poró frito.",
+    "endereco": "Rua dos Borges, 1520 | Jardim Vitória, Belo Horizonte – MG",
+    "bairro": "Jardim Vitória",
+    "regiao": "Nordeste",
+    "telefone": "31992534428",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Dona Suica",
+    "prato": "Poró de Gala e Costela na Panela",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112356/donasuica_porodegalaecostelanapanela_bh_2026_rodneycosta_unibh-4460.jpg",
+    "descricao": "Costelinha suína de panela, servida com purê de batata ao alho-poró e queijo gratinado, acompanhada de barbecue mineiro.",
+    "endereco": "Av. João Samaha, 390 | São João Batista, Belo Horizonte – MG",
+    "bairro": "São João Batista",
+    "regiao": "Venda Nova",
+    "telefone": "31992939701",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "21:30" }
+    ]
+  },
+  {
+    "bar": "Empório Laís",
+    "prato": "Sonho de Salsa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112357/emporiolais_sanhodesalsa_bh_206_pauloti_unibh-5026.jpg",
+    "descricao": "Bombom salgado com o sabor e o frescor da salsa e molho de alho com beterraba.",
+    "endereco": "Rua Olavo Andrade, 195 | Cachoeirinha, Belo Horizonte – MG",
+    "bairro": "Cachoeirinha",
+    "regiao": "Nordeste",
+    "telefone": "31988029200",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Espetinho do Boi",
+    "prato": "Ora pro Boi",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112459/espetinhodoboi_oraproboi_bh_2026_pauloti_unibh-4969.jpg",
+    "descricao": "Coxão mole, purê de batata e ora-pro-nóbis.",
+    "endereco": "R. São Paulo da Cruz, 357 | Barreiro, Belo Horizonte – MG",
+    "bairro": "Barreiro",
+    "regiao": "Barreiro",
+    "telefone": "31997725503",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Espetinho do Tilias",
+    "prato": "Vaca Louca Na Horta",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112501/espetinhodotilias_vacaloucanahorta_bh_2026_rodneycosta_unibh-3561.jpg",
+    "descricao": "Acém com osso, servido com purê de couve-flor, regado com aromático pesto de alho-poró e finalizado com couve crispy. Acompanha torradas de alho-poró.",
+    "endereco": "Praça Manoel Batista Baía, 235 | Mantiqueira, Belo Horizonte – MG",
+    "bairro": "Mantiqueira",
+    "regiao": "Venda Nova",
+    "telefone": "3132840063",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Espetinho Rei e Família",
+    "prato": "Musconóbis",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112503/espetinhoreiefamilia_musconobes_bh_2026_rodneycosta_unibh-4218.jpg",
+    "descricao": "Músculo, acompanhado de polenta e ora-pro-nóbis.",
+    "endereco": "Av. Guarapari, 1281 | Santa Amélia, Belo Horizonte – MG",
+    "bairro": "Santa Amélia",
+    "regiao": "Pampulha",
+    "telefone": "3135672474",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Espetinho São Pedro QUIÓ",
+    "prato": "Vulcão oásis Quió",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112504/espetinhosaopedroquio_vulcaonooasisquio_bh_2026_rodneycosta_unibh-4430.jpg",
+    "descricao": "Disco de carne recheada com creme de rúcula, guarnecido de polenta mole, molho da casa, mostarda crocante.",
+    "endereco": "Rua Cristina, 870 | São Pedro, Belo Horizonte – MG",
+    "bairro": "São Pedro",
+    "regiao": "Centro-Sul",
+    "telefone": "",
+    "horarios": []
+  },
+  {
+    "bar": "Espettinho.com",
+    "prato": "“Moela da Tia”",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112506/espettinho.com_moeladatia_bh_2026_rodneycosta_unibh-4452.jpg",
+    "descricao": "Moela ao molho de tomate caseiro e alho-poró. Temperada com bacon e páprica defumada. Acompanhada de minipães franceses e cheiro-verde.",
+    "endereco": "R. Eli Seabra Filho, 510 | Buritis, Belo Horizonte – MG",
+    "bairro": "Buritis",
+    "regiao": "Oeste",
+    "telefone": "(34) 99915-7000 | (31) 99915-2800",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "21:30" }
+    ]
+  },
+  {
+    "bar": "Galpão Flor do Campo",
+    "prato": "Espinafrou a Trouxinha",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112608/galpaoflordocampo_espinafrouatrouxinha_bh_2026_rodneycosta_unibh-3862.jpg",
+    "descricao": "Trouxinha de lombo recheada com espinafre, ricota e abacaxi, acompanhada de bolinho de espinafre com ricota e molho da redução do caldo da carne (demi-glace).",
+    "endereco": "Rua Coronel Otávio Diniz, 449 | Santa Efigênia, Belo Horizonte – MG",
+    "bairro": "Santa Efigênia",
+    "regiao": "Centro-Sul e Leste",
+    "telefone": "31991159252",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Garagge Vintage",
+    "prato": "Sereia do Bar",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112610/garaggevintage_seriodobar_bh_2026_kaiqueamorim_unibh-3686.jpg",
+    "descricao": "Tiras de tilápia empanadas com gergelim, purê de batata com espinafre, cebola ao suco de morango e molho especial.",
+    "endereco": "Av. Doutor Cristiano Guimarães, 1258 | Planalto, Belo Horizonte – MG",
+    "bairro": "Planalto",
+    "regiao": "Norte",
+    "telefone": "31999778888",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Geraldin da Cida",
+    "prato": "Costelinha do Papai",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/02/12060043/cdb26_kv-1536x864.png",
+    "descricao": "Costelinha suada, farofa de milho com bacon acompanhado de almeirão refogado.",
+    "endereco": "Rua Contria, 1459 | Grajaú, Belo Horizonte – MG",
+    "bairro": "Grajaú",
+    "regiao": "Oeste",
+    "telefone": "(31) 998322265",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "20:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "19:00" }
+    ]
+  },
+  {
+    "bar": "Golden Grill",
+    "prato": "Coxa Supreme ao Alho-Poró",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112612/goldengrill_coxasuprimeaoalhoporo_bh_2026_rodneycosta_unibh-4571.jpg",
+    "descricao": "Coxa de frango recheada com cream cheese e alho-poró, servida com um molho especial da casa.",
+    "endereco": "R. Amílcar Cabral, 515 | Milionários, Belo Horizonte – MG",
+    "bairro": "Milionários",
+    "regiao": "Barreiro",
+    "telefone": "31999695281",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "18:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Graffica Bar",
+    "prato": "Bolim com Nóbis",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112614/grafficabar_bolmcomnobris_bh_2026_pauloamorim_unibh-3381.jpg",
+    "descricao": "Bolinho de mandioca com linguiça calabresa, com molho pesto de ora-pro-nóbis.",
+    "endereco": "Av. Augusto de Lima, 233 – Varanda | Centro, Belo Horizonte – MG",
+    "bairro": "Centro",
+    "regiao": "Centro-Sul",
+    "telefone": "31971412929",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Iracema bar",
+    "prato": "Moela ao molho com peixinho da horta pra nadar!",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112615/iracema_moelaaomolhocompeixinhodahortapronadar_bh_2026_pauloti_unibh-4030.jpg",
+    "descricao": "Moelinha ao molho acompanhada de crocantes folhas de peixinho da horta empanadas e fritas.",
+    "endereco": "R. Almandina, 56 | Santa Teresa, Belo Horizonte – MG",
+    "bairro": "Santa Teresa",
+    "regiao": "Leste",
+    "telefone": "31982707732",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "19:00" }
+    ]
+  },
+  {
+    "bar": "Ivo Grill",
+    "prato": "IVOquei o Porco",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112717/ivogrill_ivoqueioporco_bh_2026_joaovictor_unibh-3950.jpg",
+    "descricao": "Bolinho de linguiça recheado com couve e queijo. Acompanha molho da casa.",
+    "endereco": "Rua Professor Tristão da Cunha, 183 | Planalto, Belo Horizonte – MG",
+    "bairro": "Planalto",
+    "regiao": "Norte",
+    "telefone": "3130470171",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Já Tô Inno",
+    "prato": "Trem de Minas",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112719/jatoindo_tremdeminas_bh_2026_pauloti_unibh-5234.jpg",
+    "descricao": "Hot de copa lombo recheado com agrião, pancetta. Acompanhado de molho especial.",
+    "endereco": "R. Benjamim Dias, 379 | Barreiro, Belo Horizonte – MG",
+    "bairro": "Barreiro",
+    "regiao": "Barreiro",
+    "telefone": "3133841198",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Juzé Bar",
+    "prato": "Charuto, Fumaça e Farofa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112721/juzebar_charutofumacaefarofa_bh_2026_pauloti_unibh-3959.jpg",
+    "descricao": "Charuto de repolho com carne moída no molho de tomate caseiro, manjericão e farofa de banana-da-terra.",
+    "endereco": "R. Carlos Sá, 180| Jardim Atlântico, Belo Horizonte – MG",
+    "bairro": "Jardim Atlântico",
+    "regiao": "Pampulha",
+    "telefone": "31989025128",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Köbes Emporium Bar",
+    "prato": "Prosa Verde e Roxa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112724/kobesemporiumbar_prosaverdeeroxa_bh_2026_rodneycosta_unibh-4146.jpg",
+    "descricao": "Almôndega aberta na chapa com repolho ao vinho e molho de alface.",
+    "endereco": "R. Professor Raimundo Nonato, 31 – A | Santa Teresa, Belo Horizonte – MG",
+    "bairro": "Santa Teresa",
+    "regiao": "Leste",
+    "telefone": "3134676661",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Koqueiros Bar",
+    "prato": "Kostelinha Tropical",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112722/koqueirosbar_kostelinhatropical_bh_2026_juliacristine_unibh-3514.jpg",
+    "descricao": "Costelinha suína, acompanhada de repolho-roxo refogado na manteiga com amendoim torrado e farofa de banana com alho-poró.",
+    "endereco": "Av. Silviano Brandão, 1293 | Sagrada Família, Belo Horizonte – MG",
+    "bairro": "Sagrada Família",
+    "regiao": "Leste",
+    "telefone": "3125107025",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "14:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Leo da Quadra",
+    "prato": "Di Juei",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112825/leodaquadra_dijuei_bh_2026_pauloti_unibh-4097.jpg",
+    "descricao": "Joelho de porco em postas, mergulhado na canjiquinha com bacon e taioba na manteiga.",
+    "endereco": "R. Oliveira Lisboa, 107 | Barreiro, Belo Horizonte – MG",
+    "bairro": "Barreiro",
+    "regiao": "Barreiro",
+    "telefone": "31996739688",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Locomotivas Bar",
+    "prato": "Porkin do Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112827/locomotivasbar_porkimpopeye_bh_2026_rodneycosta_unibh-4302.jpg",
+    "descricao": "Croquete de barriga suína, recheada com mix de espinafre e provolone. Acompanha: chimichurri de lemon pepper.",
+    "endereco": "R. Carmésia, 568 | Santa Inês, Belo Horizonte – MG",
+    "bairro": "Santa Inês",
+    "regiao": "Leste",
+    "telefone": "31991773039",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "19:00" }
+    ]
+  },
+  {
+    "bar": "Magnífico Quintal",
+    "prato": "Costela na sombra da couve",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112829/magnificoquintal_costelanasombradacouve_bh_2026_rodneycosta_unibh-4286.jpg",
+    "descricao": "Costela assada ao barbecue de goiabada, farofa de couve com bacon finalizada no crispy de couve e aligot de batata.",
+    "endereco": "R. Doutor Jefferson de Oliveira, 56 | Santa Amélia, Belo Horizonte – MG",
+    "bairro": "Santa Amélia",
+    "regiao": "Pampulha",
+    "telefone": "31999882311",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "01:30" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "01:30" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Magrelo’s bar",
+    "prato": "A Vaca no Vinho",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112830/magrelosbar_avacanovinho_bh_2026_isaquerodrigues_unibh-3716.jpg",
+    "descricao": "Costela ao vinho com bamba de couve.",
+    "endereco": "Av. Serrana, 635 | Serrano, Belo Horizonte – MG",
+    "bairro": "Serrano",
+    "regiao": "Pampulha",
+    "telefone": "(31) 99838-8998 | (31) 3475-0113",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "15:00", "fechamento": "21:00" }
+    ]
+  },
+  {
+    "bar": "Mamute Bar",
+    "prato": "Prova procê vê, criatura",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112832/mamute_provaprocevecriatura_bh_2026_rodneycosta_unibh-3876.jpg",
+    "descricao": "Canudo de pastel, recheado de rabada e requeijão de raspa com maionese de agrião.",
+    "endereco": "R. Brás Cubas, 116 | Cruzeiro, Belo Horizonte – MG",
+    "bairro": "Cruzeiro",
+    "regiao": "Centro-Sul",
+    "telefone": "(31) 98403-3247",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "22:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Mineiros Beer",
+    "prato": "Talento Mineiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112935/mineirobeer_talentomineiro_bh_2026_julianunes_unibh-3702.jpg",
+    "descricao": "Angu, carne de porco braseada e couve refogada no azeite e alho.",
+    "endereco": "R. Romualdo Lopes Cançado, 399 | Castelo, Belo Horizonte – MG",
+    "bairro": "Castelo",
+    "regiao": "Pampulha",
+    "telefone": "3121273503",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "15:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "16:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Mulão",
+    "prato": "Botox Mineiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112937/mulao_botoxmineiro_bh_2026_rodneycosta_unibh-4240.jpg",
+    "descricao": "Pé de galinha ensopado com angu de moinho de pedra e farofa de banana-da-terra e almeirão.",
+    "endereco": "R. Marambaia, 291 | Caiçaras, Belo Horizonte – MG",
+    "bairro": "Caiçaras",
+    "regiao": "Noroeste",
+    "telefone": "3134126505",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Nosso Spetim",
+    "prato": "Minas no Prato",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112938/nossospetim_minasnoprato_bh_2026_pauloti_unibh-4755.jpg",
+    "descricao": "Angu cremoso servido com suã ao molho com bacon e linguiça calabresa, alho-poró e queijo, acompanhado de mostarda refogada e espetinho de torresmo de barriga crocante.",
+    "endereco": "Rua dos Astecas, 3219 | Santa Mônica, Belo Horizonte – MG",
+    "bairro": "Santa Mônica",
+    "regiao": "Pampulha e Venda Nova",
+    "telefone": "31987079188",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "NUBAR",
+    "prato": "Trem bão de panela",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112940/nubar_trembaodepanela_bh_2026_rodneycosta_unibh-4398.jpg",
+    "descricao": "Maçã de peito cozida com batata, cebola e linguiça calabresa, acompanhada de torradas e conserva de acelga.",
+    "endereco": "Avenida dos Engenheiros, 843 | Alípio de Melo, Belo Horizonte – MG",
+    "bairro": "Alípio de Melo",
+    "regiao": "Pampulha",
+    "telefone": "31991979908",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "16:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "16:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "O Fino do Alho",
+    "prato": "Osôbuco di suá",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09112941/ofinodoalho_ossobucodisua_bh_2026_isaquerodrigues_unibh-3603.jpg",
+    "descricao": "Ossobuco suíno com ora-pro-nóbis na polenta com queijo coalho e cebola mais alho no vinagrete.",
+    "endereco": "R. Capitão Sérgio Pires, 41 | Minascaixa, Belo Horizonte – MG",
+    "bairro": "Minascaixa",
+    "regiao": "Venda Nova",
+    "telefone": "31988275391",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "01:00" },
+      { "dia": "Sábado", "abertura": "17:30", "fechamento": "01:00" },
+      { "dia": "Domingo", "abertura": "17:30", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Oratório Bar",
+    "prato": "Lambuzado",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113043/oratoriobar_lambuzado_bh_2026_rodneycosta_unibh-4675.jpg",
+    "descricao": "Pernil de porco com agrião fresco e batata bolinha. Acompanhado de torradas da casa.",
+    "endereco": "Av. Brasil, 161 | Santa Efigênia, Belo Horizonte – MG",
+    "bairro": "Santa Efigênia",
+    "regiao": "Centro-Sul e Leste",
+    "telefone": "3132417112",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Parada 10.95 Bar",
+    "prato": "Locro por Minas",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113045/parada1095_locroporminas_bh_2026_rodneycosta_unibh-3929.jpg",
+    "descricao": "Pé de porco e orelha, milho de canjica, galinha e ora-pro-nóbis.",
+    "endereco": "Avenida dos Engenheiros, 1095 | Alípio de Melo, Belo Horizonte – MG",
+    "bairro": "Alípio de Melo",
+    "regiao": "Pampulha",
+    "telefone": "31997001095",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:30", "fechamento": "14:30" },
+      { "dia": "Terça-feira", "abertura": "11:30", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:30", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:30", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Parada do Sabor",
+    "prato": "Lanche do Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113047/paradadosabor_lanchedepopeye_bh_2026_pauloti_unibh-5163.jpg",
+    "descricao": "Filé-mignon suíno ao molho de espinafre com catupiry e creme de leite, acompanha torradas na manteiga de ervas.",
+    "endereco": "Av. General Carlos Guedes, 346 | Planalto, Belo Horizonte – MG",
+    "bairro": "Planalto",
+    "regiao": "Norte",
+    "telefone": "31988995343",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "13:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Pé de Cana",
+    "prato": "Porco na Lama",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/16112227/pedecana_porconalama_joaovictor_unibh-3298.jpg",
+    "descricao": "Lombo de panela com ora-pro-nóbis, batata baby, maionese de cebola picante.",
+    "endereco": "R. Flórida, 15 | Carmo, Belo Horizonte – MG",
+    "bairro": "Carmo",
+    "regiao": "Centro-Sul",
+    "telefone": "(31) 3221-2099",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Pé de Goiaba",
+    "prato": "Atolacoxa",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113050/pedegoiaba_atolacoxa_bh_2026_rodneycosta_unibh-4135.jpg",
+    "descricao": "Coxinhas de frango com queijo ao molho de goiabada levemente apimentada e defumada. Acompanha: creme de rúcula.",
+    "endereco": "Av. Amazonas, 4676 | Nova Suíça, Belo Horizonte – MG",
+    "bairro": "Nova Suíça",
+    "regiao": "Oeste",
+    "telefone": "3133479425",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Planeta Lúpulo",
+    "prato": "Catifunda",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113153/planetalupulo_catifunda_bh_2026_pauloti_unibh-4839.jpg",
+    "descricao": "Charutos de couve recheados com carne suína, cobertos por molho artesanal de tomates frescos. Acompanha farofa da casa.",
+    "endereco": "Av. Guarapari, 108 | Santa Amélia, Belo Horizonte – MG",
+    "bairro": "Santa Amélia",
+    "regiao": "Pampulha",
+    "telefone": "3136461088",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "14:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "14:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "PoiZé Bar e Petisqueira",
+    "prato": "Porco escaldado Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113155/poizebar_porcoescaladadoopeye_bh_2026_rodneycosta_unibh-4690.jpg",
+    "descricao": "Cubos de pernil mergulhado num escaldado de farinha de fubá torrada e espinafre refogado na manteiga.",
+    "endereco": "R. Pium-I, 686 | Cruzeiro, Belo Horizonte – MG",
+    "bairro": "Cruzeiro",
+    "regiao": "Centro-Sul",
+    "telefone": "31997760076",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "Prado Beer",
+    "prato": "Músculo do Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113156/pradobeer_musculodopopeye_bh_2026_pauloti_unibh-4945.jpg",
+    "descricao": "Músculo com purê de batata e molho pesto de espinafre. Acompanhado de melado de cana e vitamina do Popeye.",
+    "endereco": "Av. Francisco Sá, 590 | Prado, Belo Horizonte – MG",
+    "bairro": "Prado",
+    "regiao": "Oeste",
+    "telefone": "(31) 3267-4410 | (31) 2551-7794",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "12:30", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:30", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Queremos Frango",
+    "prato": "Sô forte uai",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113158/queremosfrango_soforteuai_bh_2026_rodneycosta_unibh-4390.jpg",
+    "descricao": "Mingau de mandioca com couve rasgada, músculo ao vinho, mandiocas fritas e torradinhas caseiras.",
+    "endereco": "Avenida Joaquim Clemente, 730 | Floramar, Belo Horizonte – MG",
+    "bairro": "Floramar",
+    "regiao": "Norte",
+    "telefone": "31991858236",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "22:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "22:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "16:00" }
+    ]
+  },
+  {
+    "bar": "Quintal do Louzada",
+    "prato": "Charuteco Caipira",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113159/quintaldolouzada_charuteco_isaquerodrigues_unibh-3203.jpg",
+    "descricao": "Charuto de couve recheado com ragu de linguiça, com bolacha de acelga e crispy de alho-poró. Acompanha: cachaça da roça.",
+    "endereco": "Rua Gávea, 358 | Nova Suíça, Belo Horizonte – MG",
+    "bairro": "Nova Suíça",
+    "regiao": "Oeste",
+    "telefone": "31975636019",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Quioxque Botequim Carioca",
+    "prato": "Sou Marinheiro Popeye",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113301/quioxquecarioca_souomarinheiropopeye_bh_2026_pauloti_unibh-5175.jpg",
+    "descricao": "Prexecas de espinafre, sob molho pomodoro, gratinadas com queijo e acompanhadas de batatas bolinhas em conserva bem temperadas com alho, bacon e pimenta-calabresa. Servidas com pesto de espinafre e manjericão.",
+    "endereco": "Rua Henrique Badaró Portugal, 157 | Buritis, Belo Horizonte – MG",
+    "bairro": "Buritis",
+    "regiao": "Oeste",
+    "telefone": "31984778708",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:30", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:30", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Quitandas da Tia Nice Bar",
+    "prato": "Tô Ki",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113303/quitandasdatianice_toki_bh_2026_rodneycosta_unibh-4358.jpg",
+    "descricao": "Iscas de paleta suína e copa lombo salteadas com cebola-roxa, pimentões, cenoura, cebolinha, acelga, alho-poró e molho agridoce da casa. Acompanha salada de manga com pimentões, pimenta-dedo-de-moça, mel e croutons da casa.",
+    "endereco": "R. Alabastro, 146 | Horto, Belo Horizonte – MG",
+    "bairro": "Horto",
+    "regiao": "Leste",
+    "telefone": "3198240120",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Recanto da Traíra",
+    "prato": "Uai, Traíra não Traí",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113304/recantodatraira_trairanaotrai_bh_2026_isacrodrigues_unibh-3792.jpg",
+    "descricao": "Traíra com purê de mandioca e crispy de couve, banana-da-terra e batata chips. Acompanha: molho melado e molho de maracujá.",
+    "endereco": "Rua Alberto Cintra, 47 | União, Belo Horizonte – MG",
+    "bairro": "União",
+    "regiao": "Nordeste",
+    "telefone": "31988150787",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Reforma Bar",
+    "prato": "Trouxas de couve recheadas com bacalhau cremoso ao molho branco.",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113306/barreforma_maviadastrouxas_bh_2026_rodneycosta_unibh-4343.jpg",
+    "descricao": "Trouxas de couve recheadas com bacalhau cremoso ao molho branco.",
+    "endereco": "Rua Joaquim Nabuco, 577 | Nova Suíça, Belo Horizonte – MG",
+    "bairro": "Nova Suíça",
+    "regiao": "Oeste",
+    "telefone": "31992935150",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Rei da Picanha",
+    "prato": "De picanha com a vida",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113307/reidapicanha_depicanhacaomavida_bh_2026_pauloti_unibh-4527.jpg",
+    "descricao": "Picanha suína, acompanhada de chutney de tomate-cereja picante, batata rústica com pesto de couve e espinafre.",
+    "endereco": "Avenida Sebastião de Brito, 400 | Dona Clara, Belo Horizonte – MG",
+    "bairro": "Dona Clara",
+    "regiao": "Pampulha",
+    "telefone": "",
+    "horarios": []
+  },
+  {
+    "bar": "Rei do Peixe",
+    "prato": "Polpetta do Rei",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113409/reidopeixe_polpettasdorei_bh_2026_pauloti_unibh-4918.jpg",
+    "descricao": "Polpetta do Rei",
+    "endereco": "R. Ramalho Ortigão, 735 | Santa Branca, Belo Horizonte – MG",
+    "bairro": "Santa Branca",
+    "regiao": "Pampulha",
+    "telefone": "31972669782",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "13:00", "fechamento": "22:00" }
+    ]
+  },
+  {
+    "bar": "Resenha da Naty",
+    "prato": "Pode comer que não é pecado",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113411/resenhadanaty_podecomerquenaoepecado_bh_2026_rodneycosta_unibh-4649.jpg",
+    "descricao": "Maçã de peito cozida com pedaços de milho-verde e couve crispy com alho.",
+    "endereco": "R. Gonçalves Lêdo, 288 | Cachoeirinha, Belo Horizonte – MG",
+    "bairro": "Cachoeirinha",
+    "regiao": "Nordeste",
+    "telefone": "31999284873",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "18:00" }
+    ]
+  },
+  {
+    "bar": "S.O.S Pub",
+    "prato": "Boi enrolado",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113413/sospub_boienrolado_bh_2026_rodneycosta_unibh-5057.jpg",
+    "descricao": "Costela de boi com arroz, enrolada no repolho sob uma cama de molho de tomate e coberta com molho de queijo gratinado.",
+    "endereco": "Avenida Padre José Maurício, 1126 | Vista Alegre, Belo Horizonte – MG",
+    "bairro": "Vista Alegre",
+    "regiao": "Oeste",
+    "telefone": "31992950703",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "17:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Sant’Esquina Butiquim",
+    "prato": "Atoladinho de boi bebum",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113414/santesquinabutequim_atoladimdeboibebum_bh_2026_pauloti_unibh-3975.jpg",
+    "descricao": "Ragu de lombinho bovino com aligot de mandioca e crispy de couve.",
+    "endereco": "Rua Ramalho Ortigão, 650 | Santa Branca, Belo Horizonte – MG",
+    "bairro": "Santa Branca",
+    "regiao": "Pampulha",
+    "telefone": "31988997273",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "20:00" }
+    ]
+  },
+  {
+    "bar": "Santa Boemia",
+    "prato": "Mama mia!",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113416/santaboemia_mamamia_bh_2026_rodneycosta_unibh-4596.jpg",
+    "descricao": "Bolinhos empanados na panko e fritos, preparados com uma combinação de rúcula, queijos e tomates. Acompanhados de um molho de tomates especial.",
+    "endereco": "R. Mármore, 534 | Santa Teresa, Belo Horizonte – MG",
+    "bairro": "Santa Teresa",
+    "regiao": "Leste",
+    "telefone": "31991322623",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "21:00" }
+    ]
+  },
+  {
+    "bar": "Santuário Retrô",
+    "prato": "Du Gibí",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113518/santuarioretro_dugibi_bh_2026_pauloti_unibh-4873.jpg",
+    "descricao": "Bifão dos Flintstones, de copa lombo, com creme de espinafre do Popeye, picles de brócolis, couve-flor e pimentão; e batata bolinha.",
+    "endereco": "Av. Padre Vieira, 150 | Minas Brasil, Belo Horizonte – MG",
+    "bairro": "Minas Brasil",
+    "regiao": "Noroeste",
+    "telefone": "31992084950",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "19:00" }
+    ]
+  },
+  {
+    "bar": "Seu Justino",
+    "prato": "Rolê do Justino",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113520/seujustino_roledojustino_fernandaoliveira_unibh-3183.jpg",
+    "descricao": "Bife de boi à rolê, purê de abóbora com espinafre, acompanhado com caldo da carne e queijo coalho grelhado e defumado.",
+    "endereco": "Rua Dona Conceição Martins, 63 | Maria Helena, Belo Horizonte – MG",
+    "bairro": "Maria Helena",
+    "regiao": "Venda Nova",
+    "telefone": "31986961235",
+    "horarios": [
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Sô Bar",
+    "prato": "Só vem",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113521/sobar_sovem_bh_2026_pauloti_unibh-5007.jpg",
+    "descricao": "Linguiça artesanal recheada com alho-poró, finalizada com queijo derretido e um toque especial de alho-poró.",
+    "endereco": "Av. Altamiro Avelino Soares, 426 | Castelo, Belo Horizonte – MG",
+    "bairro": "Castelo",
+    "regiao": "Pampulha",
+    "telefone": "31992797084",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Spetim",
+    "prato": "Dona Farofa e Sr. Porquinho",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113523/spetim_donafarofaesrporquinho_bh_2026_pauloti_unibh-5204.jpg",
+    "descricao": "Farofa de espinafre, agrião e alho-poró na manteiga, servida com costelinha caipira pururucada e vinagrete de abacaxi com pimenta-biquinho.",
+    "endereco": "R. Ilacir Pereira Lima, 518 | Silveira, Belo Horizonte – MG",
+    "bairro": "Silveira",
+    "regiao": "Nordeste",
+    "telefone": "3134821232",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "23:00" }
+    ]
+  },
+  {
+    "bar": "Sunset Bar",
+    "prato": "Costela Véia de Guerra",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113525/sunsetbar_costelaveiadeguerra_bh_2026_rodneycosta_unibh-3325.jpg",
+    "descricao": "Costela de boi com mandioca cozida, almeirão refogado e acompanhada de farofa da casa.",
+    "endereco": "R. Érico Veríssimo, 2039 | Santa Mônica, Belo Horizonte – MG",
+    "bairro": "Santa Mônica",
+    "regiao": "Pampulha e Venda Nova",
+    "telefone": "31986694770",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "23:30" },
+      { "dia": "Sábado", "abertura": "16:00", "fechamento": "23:30" },
+      { "dia": "Domingo", "abertura": "16:00", "fechamento": "23:30" }
+    ]
+  },
+  {
+    "bar": "Tanganica Art Bar",
+    "prato": "Trio Vegano",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113626/tanganica_triovegano_bh_2026_pauloti_unibh-4057.jpg",
+    "descricao": "Mix vegano com linguiça de espinafre, pastel de ora-pro-nóbis, torresmo de milho e molho de alho.",
+    "endereco": "R. Padre Demerval Gomes, 380 | Coração Eucarístico, Belo Horizonte – MG",
+    "bairro": "Coração Eucarístico",
+    "regiao": "Noroeste",
+    "telefone": "31992112697",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "13:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "22:30" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "13:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "22:30" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "13:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "22:30" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "13:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "22:30" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "13:00" },
+      { "dia": "Domingo", "abertura": "18:00", "fechamento": "22:30" }
+    ]
+  },
+  {
+    "bar": "Toca do Ogro",
+    "prato": "Trio da Roça",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113628/tocadoogro_triodaroca_bh_2026_rodneycosta_unibh-3916.jpg",
+    "descricao": "Sambiquira douradinha, torresmo estalando e couve-flor à milanesa: três crocâncias que se uniram num trio pra conquistar seu coração e sua cerveja, acompanhado de um creme de alho-poró que coroa essa combinação, fechando com a harmonização perfeita.",
+    "endereco": "R. Professor Nelson de Sena, 4 | Pampulha, Belo Horizonte – MG",
+    "bairro": "Pampulha",
+    "regiao": "Pampulha",
+    "telefone": "3136653838",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "17:30", "fechamento": "22:30" },
+      { "dia": "Quarta-feira", "abertura": "17:30", "fechamento": "22:30" },
+      { "dia": "Quinta-feira", "abertura": "17:30", "fechamento": "22:30" },
+      { "dia": "Sexta-feira", "abertura": "17:30", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "12:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "15:00" }
+    ]
+  },
+  {
+    "bar": "Toninho – Alto Forno",
+    "prato": "Pé no Rabo (Homenagem ao Tonhão)",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113630/bartoninhoaltoforno_penorabo_bh_2026_pauloti_unibh-5193.jpg",
+    "descricao": "Rabada com pé de porco (a tradicional “mãozinha”), cozidos com ora-pro-nóbis e rodelas de milho-verde. Acompanha farofa dourada.",
+    "endereco": "R. Miracema, 100 | Santo André, Belo Horizonte – MG",
+    "bairro": "Santo André",
+    "regiao": "Noroeste",
+    "telefone": "3136544064",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "01:30" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "01:30" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "01:30" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "01:30" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "01:30" },
+      { "dia": "Domingo", "abertura": "18:00", "fechamento": "00:30" }
+    ]
+  },
+  {
+    "bar": "Us Motoca",
+    "prato": "Risoto Mineiro",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113632/usmotoca_risotomineiro_bh_2026_rodneycosta_unibh-4269.jpg",
+    "descricao": "Risoto de canjica com couve, bacon, linguiça e costelinha com mostarda de jabuticaba, servido com crispy de alho-poró e chips de jiló.",
+    "endereco": "R. Blenda, 91 | Camargos, Belo Horizonte – MG",
+    "bairro": "Camargos",
+    "regiao": "Oeste",
+    "telefone": "31985444031",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Domingo", "abertura": "11:30", "fechamento": "15:00" }
+    ]
+  },
+  {
+    "bar": "Via Deslandes",
+    "prato": "Di Joelho",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113633/viadeslandes_dijoelho_bh_2026_pauloti_unibh-4933.jpg",
+    "descricao": "Joelho de porco defumado, com chucrute, maionese de batata e chutney de abacaxi.",
+    "endereco": "Rua Francisco Deslandes, 10 | Anchieta, Belo Horizonte – MG",
+    "bairro": "Anchieta",
+    "regiao": "Centro-Sul",
+    "telefone": "3136573677",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "11:00", "fechamento": "17:00" },
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Quinta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sexta-feira", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Sábado", "abertura": "11:00", "fechamento": "23:00" },
+      { "dia": "Domingo", "abertura": "11:00", "fechamento": "17:00" }
+    ]
+  },
+  {
+    "bar": "Xambar",
+    "prato": "Esconde-Esconde",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113736/xambar_escondeesconde_bh_2026_rodneycosta_unibh-4581.jpg",
+    "descricao": "Escondidinho de alho-poró, recheado com carne de boi desfiada, acompanhado por torradas amanteigadas.",
+    "endereco": "Av. Augusto de Lima, 233 – Edifício Maleta | Centro, Belo Horizonte – MG",
+    "bairro": "Centro",
+    "regiao": "Centro-Sul",
+    "telefone": "31994108635",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "17:00", "fechamento": "00:00" },
+      { "dia": "Sábado", "abertura": "17:00", "fechamento": "00:00" }
+    ]
+  },
+  {
+    "bar": "Zé Bolacha",
+    "prato": "Menu de Minas",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113737/zebolachabar_menudosgerais_bh_2026_pauloti_unibh-5144.jpg",
+    "descricao": "Entradas: shot de canjiquinha petisco, bruschettas de pão de queijo recheado com requeijão, servidas com mix de carnes (bovinas e suínas) com alho-poró e molho pesto de espinafre. Sobremesa: queijo minas com goiabada.",
+    "endereco": "Rua das Melancias, 35 | Vila Clóris, Belo Horizonte – MG",
+    "bairro": "Vila Clóris",
+    "regiao": "Norte e Venda Nova",
+    "telefone": "3134541052",
+    "horarios": [
+      { "dia": "Segunda-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Terça-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quarta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Quinta-feira", "abertura": "18:00", "fechamento": "00:00" },
+      { "dia": "Sexta-feira", "abertura": "18:00", "fechamento": "01:00" },
+      { "dia": "Sábado", "abertura": "18:00", "fechamento": "01:00" }
+    ]
+  },
+  {
+    "bar": "Zoo Bar",
+    "prato": "Porcoró",
+    "imagem": "https://cdb-static-files.s3.amazonaws.com/wp-content/uploads/2026/03/09113739/zoobar_procoro_bh_2026_rodneycosta_unibh-4379.jpg",
+    "descricao": "Iscas de filé-mignon suíno, acompanhadas de batatas salteadas no creme de alho-poró e farofa da casa.",
+    "endereco": "Av. Otacílio Negrão de Lima, 7844 | Pampulha, Belo Horizonte – MG",
+    "bairro": "Pampulha",
+    "regiao": "Pampulha",
+    "telefone": "(31) 99175-6225 | (31) 3491-7455",
+    "horarios": [
+      { "dia": "Terça-feira", "abertura": "11:00", "fechamento": "15:30" },
+      { "dia": "Quarta-feira", "abertura": "11:00", "fechamento": "15:30" },
+      { "dia": "Quinta-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Sexta-feira", "abertura": "12:00", "fechamento": "21:30" },
+      { "dia": "Sábado", "abertura": "13:00", "fechamento": "21:30" },
+      { "dia": "Domingo", "abertura": "12:00", "fechamento": "16:30" }
+    ]
+  }
+]

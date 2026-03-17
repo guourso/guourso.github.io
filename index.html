@@ -3,56 +3,49 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Seu Nome</title>
+  <title>Guia de Botecos</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header>
-    <h1>Seu Nome</h1>
-    <p>Desenvolvedor Front-end</p>
+  <header class="header">
+    <div class="header-overlay">
+      <h1>🍻 Guia de Botecos</h1>
+      <p>Feito pra quem ama buteco de verdade ❤️</p>
+    </div>
   </header>
 
-  <nav>
-    <a href="#sobre">Sobre</a>
-    <a href="#projetos">Projetos</a>
-    <a href="#contato">Contato</a>
-  </nav>
+  <main class="container">
 
-  <main>
+    <div class="filtros">
+      <input type="text" id="search" placeholder="Buscar bar..." />
 
-    <section id="sobre">
-      <h2>Sobre mim</h2>
-      <p>
-        Sou desenvolvedor focado em criar interfaces simples, eficientes e bem estruturadas.
-      </p>
-    </section>
+      <select id="filtro-dia">
+        <option value="">Todos os dias</option>
+        <option>Segunda-feira</option>
+        <option>Terça-feira</option>
+        <option>Quarta-feira</option>
+        <option>Quinta-feira</option>
+        <option>Sexta-feira</option>
+        <option>Sábado</option>
+        <option>Domingo</option>
+      </select>
 
-    <section id="projetos">
-      <h2>Projetos</h2>
+      <select id="filtro-bairro">
+        <option value="">Todos os bairros</option>
+      </select>
 
-      <div class="card">
-        <h3>Projeto 1</h3>
-        <p>Descrição breve do projeto.</p>
-      </div>
+      <select id="filtro-regiao">
+        <option value="">Todas as regiões</option>
+      </select>
+    </div>
 
-      <div class="card">
-        <h3>Projeto 2</h3>
-        <p>Descrição breve do projeto.</p>
-      </div>
-
-    </section>
-
-    <section id="contato">
-      <h2>Contato</h2>
-      <p>Email: seuemail@email.com</p>
-    </section>
+    <div id="lista-bares" class="grid"></div>
 
   </main>
 
-  <footer>
-    <p>© 2026 - Seu Nome</p>
-  </footer>
-
+  <script src="script.js"></script>
 </body>
 </html>
