@@ -22,11 +22,18 @@ body {
 
 /* HEADER */
 .header {
-  height: 300px;
-  background-image: url("./assets/assests_1.png");
+  height: 320px;
+
+  background-image: url("./assets/16625.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+
   position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 header,
@@ -40,7 +47,7 @@ header,
   position: absolute;
   inset: 0;
 
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4));
+  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.45));
 
   display: flex;
   flex-direction: column;
@@ -48,15 +55,21 @@ header,
   align-items: center;
 
   text-align: center;
+  padding: 20px;
 }
 
 .header-overlay h1 {
   font-size: 2.8rem;
-  color: var(--amarelo);
+  color: #ffffff;
+
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
 
 .header-overlay p {
-  color: white;
+  color: #ffffff;
+  margin-top: 8px;
+
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
 }
 
 /* CONTAINER */
@@ -386,17 +399,8 @@ select:focus {
 
 /* MOBILE */
 @media (max-width: 600px) {
-  /* HEADER */
   .header {
-    height: 180px;
-  }
-
-  .header-overlay h1 {
-    font-size: 1.6rem;
-  }
-
-  .header-overlay p {
-    font-size: 0.9rem;
+    height: 220px;
   }
 
   /* FILTROS */
