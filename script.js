@@ -75,28 +75,36 @@ function abrirModal(bar) {
   const content = document.getElementById('modal-content');
 
   const horariosHTML = (bar.horarios || [])
-    .map(h => `<p><strong>${h.dia}:</strong> ${h.abertura} - ${h.fechamento}</p>`)
+    .map(h => `<p>${h.dia}: ${h.abertura} - ${h.fechamento}</p>`)
     .join('');
 
   content.innerHTML = `
     <div style="position: relative;">
+
       <button class="modal-close" onclick="fecharModal()">✕</button>
 
-      <img src="${bar.imagem}" class="modal-img">
+      <img src="${bar.imagem}" class="modal-img" alt="${bar.bar}">
 
       <div class="modal-body">
+
         <h2>${bar.bar}</h2>
-        <p class="modal-sub">${bar.prato}</p>
 
-        <p>${bar.descricao}</p>
+        <p class="modal-prato">${bar.prato}</p>
 
-        <p><strong>📍</strong> ${bar.endereco}</p>
-        <p><strong>📞</strong> ${bar.telefone}</p>
+        <p class="modal-descricao">
+          ${bar.descricao || ''}
+        </p>
+
+        <div class="modal-info">
+          <p><strong>📍 Endereço:</strong> ${bar.endereco}</p>
+          <p><strong>📞 Telefone:</strong> ${bar.telefone}</p>
+        </div>
 
         <div class="modal-horarios">
-          <strong>Horários:</strong>
+          <h4>Horários de funcionamento</h4>
           ${horariosHTML}
         </div>
+
       </div>
     </div>
   `;

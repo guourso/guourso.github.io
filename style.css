@@ -120,14 +120,16 @@ input {
 .bar-card button {
   margin-top: 10px;
   width: 100%;
-  padding: 8px;
   border: none;
   background: var(--vermelho);
   color: white;
   cursor: pointer;
+  padding: 10px;
+  font-size: 0.9rem;
+
 }
 
-/* MODAL */
+/* MODAL BASE */
 .modal {
   position: fixed;
   top: 0;
@@ -143,43 +145,204 @@ input {
   padding: 20px;
 }
 
+/* CARD DO MODAL */
 .modal-content {
   background: white;
   border-radius: 12px;
-  max-width: 520px;
+  max-width: 500px;
   width: 100%;
   overflow: hidden;
 }
 
+/* IMAGEM */
 .modal-img {
   width: 100%;
-  height: 200px;
+  height: 180px;
   object-fit: cover;
 }
 
+/* CORPO */
 .modal-body {
   padding: 20px;
 }
 
-.modal-sub {
-  color: #666;
+/* TÍTULO */
+.modal-body h2 {
+  margin-bottom: 5px;
+}
+
+/* PRATO (destaque) */
+.modal-prato {
+  color: var(--vermelho);
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* DESCRIÇÃO */
+.modal-descricao {
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+/* INFOS */
+.modal-info {
   margin-bottom: 15px;
 }
 
+.modal-info p {
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+}
+
+/* BLOCO HORÁRIOS */
 .modal-horarios {
   background: #f7f7f7;
-  padding: 10px;
+  padding: 12px;
   border-radius: 8px;
 }
 
+.modal-horarios h4 {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+
+/* BOTÃO FECHAR */
 .modal-close {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 10px;
+  right: 10px;
+
   background: white;
   border: none;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+
+  width: 28px;
+  height: 28px;
   cursor: pointer;
+}
+
+/* ========================= */
+/* RESPONSIVIDADE */
+/* ========================= */
+
+/* TABLET */
+@media (max-width: 900px) {
+
+  .header {
+    height: 220px;
+  }
+
+  .header-overlay h1 {
+    font-size: 2rem;
+  }
+
+  .container {
+    padding: 15px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+}
+
+
+/* MOBILE */
+@media (max-width: 600px) {
+
+  /* HEADER */
+  .header {
+    height: 180px;
+  }
+
+  .header-overlay h1 {
+    font-size: 1.6rem;
+  }
+
+  .header-overlay p {
+    font-size: 0.9rem;
+  }
+
+  /* FILTROS */
+  .filtros {
+    flex-direction: column;
+  }
+
+  input, select {
+    width: 100%;
+  }
+
+  /* GRID */
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* CARD */
+  .bar-card img {
+    height: 180px;
+  }
+
+  .bar-card h3 {
+    font-size: 1rem;
+  }
+
+  .bar-card p {
+    font-size: 0.85rem;
+  }
+
+  /* MODAL */
+  .modal-content {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+
+  .modal-img {
+    height: 160px;
+  }
+
+  .modal-body {
+    padding: 15px;
+  }
+
+  .modal-body h2 {
+    font-size: 1.2rem;
+  }
+
+  .modal-descricao {
+    font-size: 0.9rem;
+  }
+
+  .modal-horarios {
+    font-size: 0.85rem;
+  }
+
+}
+/* ========================= */
+/* FOOTER */
+/* ========================= */
+
+.footer {
+  background: var(--marrom);
+  color: #fff;
+  margin-top: 40px;
+  padding: 25px 20px;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-content p {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+
+.footer-copy {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  opacity: 0.7;
 }
