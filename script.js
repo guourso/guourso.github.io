@@ -20,6 +20,26 @@ async function carregarDados() {
 }
 
 carregarDados();
+configurarContadorVisitas();
+
+// =========================
+// CONTADOR DE VISITAS
+// =========================
+function configurarContadorVisitas() {
+  const badge = document.getElementById('visit-counter-badge');
+  const status = document.getElementById('visit-counter-status');
+
+  if (!badge || !status) return;
+
+  badge.addEventListener('load', () => {
+    status.textContent = 'ativo';
+  });
+
+  badge.addEventListener('error', () => {
+    status.textContent = 'indisponível no momento';
+    badge.style.display = 'none';
+  });
+}
 
 // =========================
 // FILTROS (BAIRRO / REGIÃO)
