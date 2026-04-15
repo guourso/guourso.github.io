@@ -510,6 +510,61 @@ select:focus {
   text-align: center;
 }
 
+.likes-box {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.like-button {
+  border: none;
+  border-radius: 999px;
+  padding: 10px 18px;
+  background: var(--amarelo);
+  color: var(--marrom);
+  font-family: "Roboto Slab", serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.like-button:hover {
+  transform: translateY(-1px);
+}
+
+.like-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.like-counter {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff8e1;
+  font-weight: 600;
+}
+
+#like-counter-value {
+  min-width: 32px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.22);
+  color: var(--amarelo);
+  text-align: center;
+}
+
+.like-message {
+  color: #f7ecd1;
+  opacity: 0.9;
+}
+
 .footer-links {
   margin: 15px 0;
 }

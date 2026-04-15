@@ -2,6 +2,12 @@ let bares = [];
 let ingredientes = [];
 let tagsSelecionadas = [];
 
+const COUNTER_NAMESPACE = 'guourso-guia-botecos-cdb-2026';
+const COUNTER_BASE_URLS = [
+  'https://countapi.xyz',
+  'https://api.countapi.xyz'
+];
+
 // =========================
 // CARREGAMENTO INICIAL
 // =========================
@@ -21,20 +27,104 @@ async function carregarDados() {
 
 carregarDados();
 configurarContadorVisitas();
+configurarBotaoLike();
 
 // =========================
-// CONTADOR DE VISITAS
+// CONTADORES GLOBAIS
 // =========================
-function configurarContadorVisitas() {
+async function consultarContadorGlobal(chave, incrementar = false) {
+  let ultimoErro = null;
+
+  for (const baseUrl of COUNTER_BASE_URLS) {
+    try {
+      const rota = incrementar ? 'hit' : 'get';
+      const resposta = await fetch(`${baseUrl}/${rota}/${COUNTER_NAMESPACE}/${chave}`, {
+        cache: 'no-store'
+      });
+
+      if (resposta.status === 404) {
+        return 0;
+      }
+
+      if (!resposta.ok) {
+        throw new Error(`HTTP ${resposta.status}`);
+      }
+
+      const data = await resposta.json();
+      return Number(data.value || 0);
+    } catch (erro) {
+      ultimoErro = erro;
+    }
+  }
+
+  throw ultimoErro || new Error('Falha ao consultar contador global.');
+}
+
+function obterContadorLocal(chave) {
+  return Number(localStorage.getItem(chave) || '0');
+}
+
+function incrementarContadorLocal(chave) {
+  const novoTotal = obterContadorLocal(chave) + 1;
+  localStorage.setItem(chave, String(novoTotal));
+  return novoTotal;
+}
+
+async function configurarContadorVisitas() {
   const contador = document.getElementById('visit-counter-value');
 
   if (!contador) return;
 
-  const visitasSalvas = Number(localStorage.getItem('contadorVisitasSite') || '0');
-  const totalVisitas = visitasSalvas + 1;
+  contador.textContent = '...';
 
-  localStorage.setItem('contadorVisitasSite', String(totalVisitas));
-  contador.textContent = totalVisitas;
+  try {
+    const totalVisitas = await consultarContadorGlobal('visitas', true);
+    contador.textContent = totalVisitas;
+  } catch {
+    const totalVisitas = incrementarContadorLocal('contadorVisitasSite');
+    contador.textContent = totalVisitas;
+  }
+}
+
+async function configurarBotaoLike() {
+  const botao = document.getElementById('like-button');
+  const contador = document.getElementById('like-counter-value');
+  const mensagem = document.getElementById('like-message');
+
+  if (!botao || !contador || !mensagem) return;
+
+  const jaCurtiu = localStorage.getItem('usuarioJaCurtiuSite') === 'true';
+
+  contador.textContent = '...';
+
+  try {
+    const totalLikes = await consultarContadorGlobal('likes');
+    contador.textContent = totalLikes;
+  } catch {
+    contador.textContent = obterContadorLocal('contadorLikesSite');
+  }
+
+  if (jaCurtiu) {
+    botao.disabled = true;
+    mensagem.textContent = 'Você já deixou seu like neste navegador. 💛';
+    return;
+  }
+
+  botao.addEventListener('click', async () => {
+    botao.disabled = true;
+    mensagem.textContent = 'Registrando seu like...';
+
+    try {
+      const novoTotal = await consultarContadorGlobal('likes', true);
+      contador.textContent = novoTotal;
+    } catch {
+      const novoTotal = incrementarContadorLocal('contadorLikesSite');
+      contador.textContent = novoTotal;
+    }
+
+    localStorage.setItem('usuarioJaCurtiuSite', 'true');
+    mensagem.textContent = 'Like registrado com sucesso! 💛';
+  });
 }
 
 // =========================
