@@ -501,14 +501,13 @@ select:focus {
   font-weight: 600;
 }
 
-.visit-counter img {
-  height: 20px;
-  border-radius: 6px;
-}
-
-.visit-counter-status {
-  font-size: 0.8rem;
-  opacity: 0.85;
+#visit-counter-value {
+  min-width: 32px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.22);
+  color: var(--amarelo);
+  text-align: center;
 }
 
 .footer-links {

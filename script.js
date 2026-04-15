@@ -26,19 +26,15 @@ configurarContadorVisitas();
 // CONTADOR DE VISITAS
 // =========================
 function configurarContadorVisitas() {
-  const badge = document.getElementById('visit-counter-badge');
-  const status = document.getElementById('visit-counter-status');
+  const contador = document.getElementById('visit-counter-value');
 
-  if (!badge || !status) return;
+  if (!contador) return;
 
-  badge.addEventListener('load', () => {
-    status.textContent = 'ativo';
-  });
+  const visitasSalvas = Number(localStorage.getItem('contadorVisitasSite') || '0');
+  const totalVisitas = visitasSalvas + 1;
 
-  badge.addEventListener('error', () => {
-    status.textContent = 'indisponível no momento';
-    badge.style.display = 'none';
-  });
+  localStorage.setItem('contadorVisitasSite', String(totalVisitas));
+  contador.textContent = totalVisitas;
 }
 
 // =========================
